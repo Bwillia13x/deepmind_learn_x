@@ -1,0 +1,106 @@
+{
+    "name": "Tagalog-English Classroom Glossary",
+    "language_code": "tl",
+    "entries": [
+        {
+            "en": "open",
+            "tl": "buksan",
+            "definition": "to make accessible or remove a barrier"
+        },
+        {
+            "en": "close",
+            "tl": "isara",
+            "definition": "to shut or make inaccessible"
+        },
+        {
+            "en": "read",
+            "tl": "basahin",
+            "definition": "to look at and understand written words"
+        },
+        {
+            "en": "write",
+            "tl": "sumulat",
+            "definition": "to form letters or words on paper"
+        },
+        {
+            "en": "listen",
+            "tl": "makinig",
+            "definition": "to pay attention to sound"
+        },
+        {
+            "en": "book",
+            "tl": "libro",
+            "definition": "a set of printed pages bound together"
+        },
+        {
+            "en": "pencil",
+            "tl": "lapis",
+            "definition": "a writing instrument with graphite"
+        },
+        {
+            "en": "desk",
+            "tl": "mesa",
+            "definition": "a table for work or study"
+        },
+        {
+            "en": "teacher",
+            "tl": "guro",
+            "definition": "a person who instructs students"
+        },
+        {
+            "en": "student",
+            "tl": "estudyante",
+            "definition": "a person who is learning"
+        },
+        {
+            "en": "homework",
+            "tl": "takdang-aralin",
+            "definition": "work assigned to be done outside of class"
+        },
+        {
+            "en": "question",
+            "tl": "tanong",
+            "definition": "something asked to get information"
+        },
+        {
+            "en": "answer",
+            "tl": "sagot",
+            "definition": "a reply to a question"
+        },
+        {
+            "en": "page",
+            "tl": "pahina",
+            "definition": "one side of a sheet of paper in a book"
+        },
+        {
+            "en": "chapter",
+            "tl": "kabanata",
+            "definition": "a main division of a book"
+        },
+        {
+            "en": "sentence",
+            "tl": "pangungusap",
+            "definition": "a group of words that expresses a complete thought"
+        },
+        {
+            "en": "paragraph",
+            "tl": "talata",
+            "definition": "a group of groups about one topic"
+        },
+        {
+            "en": "draw",
+            "tl": "gumuhit",
+            "definition": "to make a picture with pencil or pen"
+        },
+        {
+            "en": "circle",
+            "tl": "bilog",
+            "definition": "a round shape"
+        },
+        {
+            "en": "underline",
+            "tl": "salungguhitan",
+            "definition": "to draw a line under words"
+        }
+    ]
+}

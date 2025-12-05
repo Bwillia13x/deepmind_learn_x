@@ -1,0 +1,649 @@
+{
+    "name": "Alberta Curriculum Alignment - ELA & ESL Benchmarks",
+    "description": "Mapping of Alberta English Language Arts outcomes and ESL Proficiency Benchmarks for K-12",
+    "version": "1.0.0",
+    "last_updated": "2024-12",
+    "esl_proficiency_benchmarks": {
+        "description": "Alberta ESL Proficiency Benchmarks for K-12 students",
+        "levels": {
+            "level_1": {
+                "name": "Beginning",
+                "description": "Very limited English proficiency; relies heavily on L1 and non-verbal communication",
+                "reading": "May recognize some letters and high-frequency sight words",
+                "writing": "Copies words and simple phrases; limited independent writing",
+                "listening": "Understands simple commands with visual support and repetition",
+                "speaking": "Uses single words and memorized phrases; pronunciation may impede understanding",
+                "indicators": [
+                    "Points to pictures/objects when named",
+                    "Copies words from board or text",
+                    "Uses gestures to communicate",
+                    "Responds to simple yes/no questions with gestures"
+                ]
+            },
+            "level_2": {
+                "name": "Developing",
+                "description": "Basic interpersonal communication; struggles with academic language",
+                "reading": "Reads simple sentences with familiar vocabulary; uses pictures for support",
+                "writing": "Writes simple sentences with patterned support; frequent errors",
+                "listening": "Follows multi-step directions with visual support",
+                "speaking": "Uses phrases and simple sentences; errors but generally understood",
+                "indicators": [
+                    "Reads grade-level text with support",
+                    "Writes sentences using frames",
+                    "Participates in structured conversations",
+                    "Follows classroom routines independently"
+                ]
+            },
+            "level_3": {
+                "name": "Expanding",
+                "description": "Functional academic language; some gaps in abstract/complex content",
+                "reading": "Reads grade-level text with moderate support; comprehends main ideas",
+                "writing": "Writes paragraphs with organization; grammar errors present",
+                "listening": "Understands most classroom instruction",
+                "speaking": "Expresses ideas clearly; occasional errors don't impede communication",
+                "indicators": [
+                    "Identifies main idea and supporting details",
+                    "Writes organized paragraphs",
+                    "Participates in class discussions",
+                    "Uses academic vocabulary in context"
+                ]
+            },
+            "level_4": {
+                "name": "Bridging",
+                "description": "Near-grade-level proficiency; continued vocabulary development needed",
+                "reading": "Reads grade-level text with minimal support; analyzes content",
+                "writing": "Writes multi-paragraph texts; minor errors",
+                "listening": "Understands complex academic content",
+                "speaking": "Communicates effectively in academic and social contexts",
+                "indicators": [
+                    "Analyzes texts for author's purpose",
+                    "Writes essays with thesis and evidence",
+                    "Presents information to class",
+                    "Uses varied sentence structures"
+                ]
+            },
+            "level_5": {
+                "name": "Exited/Monitoring",
+                "description": "Grade-level proficiency; may need occasional vocabulary support",
+                "reading": "Reads at grade level independently",
+                "writing": "Writes at grade level with appropriate conventions",
+                "listening": "Fully comprehends academic instruction",
+                "speaking": "Communicates with grade-level fluency",
+                "indicators": [
+                    "Performs at grade level on assessments",
+                    "Requires no ESL-specific support",
+                    "May monitor for 2 years after exit"
+                ]
+            }
+        }
+    },
+    "grade_level_outcomes": {
+        "kindergarten": {
+            "grade": "K",
+            "ela_strand": "Foundational Skills",
+            "outcomes": [
+                {
+                    "code": "K.FND.1",
+                    "area": "Phonological Awareness",
+                    "description": "Recognize and produce rhyming words",
+                    "skills": [
+                        "rhyming",
+                        "phonological_awareness"
+                    ],
+                    "esl_considerations": "May need explicit instruction in English sound system"
+                },
+                {
+                    "code": "K.FND.2",
+                    "area": "Phonological Awareness",
+                    "description": "Count, pronounce, blend, and segment syllables in spoken words",
+                    "skills": [
+                        "syllable_awareness",
+                        "blending",
+                        "segmenting"
+                    ],
+                    "esl_considerations": "Syllable patterns differ across L1s"
+                },
+                {
+                    "code": "K.FND.3",
+                    "area": "Phonological Awareness",
+                    "description": "Blend and segment onsets and rimes of single-syllable spoken words",
+                    "skills": [
+                        "onset_rime",
+                        "blending"
+                    ],
+                    "esl_considerations": "Foundation for decoding"
+                },
+                {
+                    "code": "K.FND.4",
+                    "area": "Phonics",
+                    "description": "Demonstrate basic knowledge of one-to-one letter-sound correspondences",
+                    "skills": [
+                        "phonics",
+                        "letter_sounds"
+                    ],
+                    "esl_considerations": "Critical for students from non-alphabetic L1s"
+                },
+                {
+                    "code": "K.FND.5",
+                    "area": "Phonics",
+                    "description": "Associate long and short vowel sounds with common spellings",
+                    "skills": [
+                        "vowels",
+                        "phonics"
+                    ],
+                    "esl_considerations": "English vowel system complex for many L1s"
+                },
+                {
+                    "code": "K.FND.6",
+                    "area": "Fluency",
+                    "description": "Read emergent-reader texts with purpose and understanding",
+                    "skills": [
+                        "fluency",
+                        "comprehension"
+                    ],
+                    "esl_considerations": "May need simplified texts with visual support"
+                },
+                {
+                    "code": "K.COM.1",
+                    "area": "Comprehension",
+                    "description": "With prompting, ask and answer questions about key details in text",
+                    "skills": [
+                        "questioning",
+                        "comprehension"
+                    ],
+                    "esl_considerations": "Question words may need explicit teaching"
+                },
+                {
+                    "code": "K.VOC.1",
+                    "area": "Vocabulary",
+                    "description": "Determine meaning of unknown words using context clues",
+                    "skills": [
+                        "vocabulary",
+                        "context_clues"
+                    ],
+                    "esl_considerations": "Build vocabulary through visual and contextual support"
+                }
+            ],
+            "benchmark_targets": {
+                "wcpm_fall": null,
+                "wcpm_winter": null,
+                "wcpm_spring": null,
+                "phoneme_segmentation": 35,
+                "letter_naming_fluency": 40
+            }
+        },
+        "grade_1": {
+            "grade": "1",
+            "ela_strand": "Foundational Skills & Comprehension",
+            "outcomes": [
+                {
+                    "code": "1.FND.1",
+                    "area": "Phonics",
+                    "description": "Know spelling-sound correspondences for common consonant digraphs",
+                    "skills": [
+                        "digraphs",
+                        "phonics"
+                    ],
+                    "esl_considerations": "sh, ch, th sounds may not exist in L1"
+                },
+                {
+                    "code": "1.FND.2",
+                    "area": "Phonics",
+                    "description": "Decode regularly spelled one-syllable words",
+                    "skills": [
+                        "decoding",
+                        "CVC_words"
+                    ],
+                    "esl_considerations": "Use decodable texts aligned to phonics sequence"
+                },
+                {
+                    "code": "1.FND.3",
+                    "area": "Phonics",
+                    "description": "Know final -e and vowel team conventions for long vowels",
+                    "skills": [
+                        "vowel_teams",
+                        "silent_e"
+                    ],
+                    "esl_considerations": "English spelling patterns often opaque"
+                },
+                {
+                    "code": "1.FND.4",
+                    "area": "Phonics",
+                    "description": "Decode two-syllable words by breaking into syllables",
+                    "skills": [
+                        "syllabication",
+                        "decoding"
+                    ],
+                    "esl_considerations": "Syllable division rules differ from L1"
+                },
+                {
+                    "code": "1.FND.5",
+                    "area": "Fluency",
+                    "description": "Read with sufficient accuracy and fluency to support comprehension",
+                    "skills": [
+                        "fluency",
+                        "accuracy"
+                    ],
+                    "esl_considerations": "Fluency develops as vocabulary grows",
+                    "benchmark": "50-60 WCPM by spring"
+                },
+                {
+                    "code": "1.COM.1",
+                    "area": "Comprehension",
+                    "description": "Ask and answer questions about key details",
+                    "skills": [
+                        "questioning",
+                        "key_details"
+                    ],
+                    "esl_considerations": "Who, what, where, when, why require explicit teaching"
+                },
+                {
+                    "code": "1.COM.2",
+                    "area": "Comprehension",
+                    "description": "Retell stories including key details",
+                    "skills": [
+                        "retelling",
+                        "sequencing"
+                    ],
+                    "esl_considerations": "Provide sentence frames for retelling"
+                }
+            ],
+            "benchmark_targets": {
+                "wcpm_fall": 20,
+                "wcpm_winter": 40,
+                "wcpm_spring": 60,
+                "phoneme_segmentation": 50,
+                "nonsense_word_fluency": 25
+            }
+        },
+        "grade_2": {
+            "grade": "2",
+            "ela_strand": "Fluency & Comprehension",
+            "outcomes": [
+                {
+                    "code": "2.FND.1",
+                    "area": "Phonics",
+                    "description": "Know spelling-sound correspondences for additional common vowel teams",
+                    "skills": [
+                        "vowel_teams",
+                        "phonics"
+                    ],
+                    "esl_considerations": "Many vowel patterns in English"
+                },
+                {
+                    "code": "2.FND.2",
+                    "area": "Phonics",
+                    "description": "Decode words with common prefixes and suffixes",
+                    "skills": [
+                        "morphology",
+                        "prefixes",
+                        "suffixes"
+                    ],
+                    "esl_considerations": "Teach meaning of affixes explicitly"
+                },
+                {
+                    "code": "2.FND.3",
+                    "area": "Fluency",
+                    "description": "Read grade-level text with purpose, understanding, accuracy, rate, expression",
+                    "skills": [
+                        "fluency",
+                        "prosody"
+                    ],
+                    "esl_considerations": "Model expression and intonation patterns",
+                    "benchmark": "80-100 WCPM by spring"
+                },
+                {
+                    "code": "2.COM.1",
+                    "area": "Comprehension",
+                    "description": "Ask and answer questions to demonstrate understanding",
+                    "skills": [
+                        "comprehension",
+                        "questioning"
+                    ],
+                    "esl_considerations": "Teach question-answer relationships"
+                },
+                {
+                    "code": "2.COM.2",
+                    "area": "Comprehension",
+                    "description": "Identify main topic and focus of multiparagraph text",
+                    "skills": [
+                        "main_idea",
+                        "comprehension"
+                    ],
+                    "esl_considerations": "Use graphic organizers"
+                }
+            ],
+            "benchmark_targets": {
+                "wcpm_fall": 60,
+                "wcpm_winter": 80,
+                "wcpm_spring": 100,
+                "oral_reading_accuracy": 0.95
+            }
+        },
+        "grade_3": {
+            "grade": "3",
+            "ela_strand": "Comprehension & Analysis",
+            "outcomes": [
+                {
+                    "code": "3.FND.1",
+                    "area": "Phonics",
+                    "description": "Decode multisyllable words",
+                    "skills": [
+                        "multisyllable_decoding"
+                    ],
+                    "esl_considerations": "Continue explicit phonics for struggling readers"
+                },
+                {
+                    "code": "3.FLU.1",
+                    "area": "Fluency",
+                    "description": "Read grade-level prose and poetry with accuracy, rate, expression",
+                    "skills": [
+                        "fluency",
+                        "prosody"
+                    ],
+                    "benchmark": "100-120 WCPM by spring"
+                },
+                {
+                    "code": "3.COM.1",
+                    "area": "Comprehension",
+                    "description": "Ask and answer questions demonstrating understanding, referring to text",
+                    "skills": [
+                        "text_evidence",
+                        "comprehension"
+                    ],
+                    "esl_considerations": "Teach citing text evidence explicitly"
+                },
+                {
+                    "code": "3.COM.2",
+                    "area": "Comprehension",
+                    "description": "Determine main idea; recount key details",
+                    "skills": [
+                        "main_idea",
+                        "supporting_details"
+                    ],
+                    "esl_considerations": "Use graphic organizers for main idea"
+                },
+                {
+                    "code": "3.COM.3",
+                    "area": "Comprehension",
+                    "description": "Describe relationship between events, ideas, concepts",
+                    "skills": [
+                        "text_structure",
+                        "relationships"
+                    ],
+                    "esl_considerations": "Teach signal words for cause/effect, sequence"
+                },
+                {
+                    "code": "3.VOC.1",
+                    "area": "Vocabulary",
+                    "description": "Use context to determine meaning of words and phrases",
+                    "skills": [
+                        "context_clues",
+                        "vocabulary"
+                    ],
+                    "esl_considerations": "Explicit vocabulary instruction essential"
+                }
+            ],
+            "benchmark_targets": {
+                "wcpm_fall": 80,
+                "wcpm_winter": 100,
+                "wcpm_spring": 120,
+                "oral_reading_accuracy": 0.95
+            }
+        },
+        "grade_4": {
+            "grade": "4",
+            "ela_strand": "Analysis & Academic Language",
+            "outcomes": [
+                {
+                    "code": "4.COM.1",
+                    "area": "Comprehension",
+                    "description": "Refer to details and examples when explaining text",
+                    "skills": [
+                        "text_evidence",
+                        "analysis"
+                    ],
+                    "esl_considerations": "Teach academic language for analysis"
+                },
+                {
+                    "code": "4.COM.2",
+                    "area": "Comprehension",
+                    "description": "Determine main idea; summarize text",
+                    "skills": [
+                        "main_idea",
+                        "summarizing"
+                    ],
+                    "esl_considerations": "Provide summarizing frames"
+                },
+                {
+                    "code": "4.COM.3",
+                    "area": "Comprehension",
+                    "description": "Explain events, procedures, ideas, concepts based on text",
+                    "skills": [
+                        "explanation",
+                        "comprehension"
+                    ],
+                    "esl_considerations": "Build content vocabulary first"
+                },
+                {
+                    "code": "4.VOC.1",
+                    "area": "Vocabulary",
+                    "description": "Use context and word parts to determine meaning",
+                    "skills": [
+                        "context_clues",
+                        "morphology"
+                    ],
+                    "esl_considerations": "Greek/Latin roots helpful for academic vocabulary"
+                },
+                {
+                    "code": "4.VOC.2",
+                    "area": "Vocabulary",
+                    "description": "Explain meaning of similes and metaphors",
+                    "skills": [
+                        "figurative_language"
+                    ],
+                    "esl_considerations": "Figurative language challenging for ELLs"
+                }
+            ],
+            "benchmark_targets": {
+                "wcpm_fall": 100,
+                "wcpm_winter": 115,
+                "wcpm_spring": 130,
+                "oral_reading_accuracy": 0.96
+            }
+        },
+        "grade_5": {
+            "grade": "5",
+            "ela_strand": "Critical Analysis",
+            "outcomes": [
+                {
+                    "code": "5.COM.1",
+                    "area": "Comprehension",
+                    "description": "Quote accurately when explaining text and drawing inferences",
+                    "skills": [
+                        "quoting",
+                        "inference"
+                    ],
+                    "esl_considerations": "Teach quotation and citation conventions"
+                },
+                {
+                    "code": "5.COM.2",
+                    "area": "Comprehension",
+                    "description": "Determine two or more main ideas; summarize",
+                    "skills": [
+                        "main_idea",
+                        "summarizing"
+                    ],
+                    "esl_considerations": "Complex texts require vocabulary pre-teaching"
+                },
+                {
+                    "code": "5.COM.3",
+                    "area": "Comprehension",
+                    "description": "Compare and contrast text structure",
+                    "skills": [
+                        "text_structure",
+                        "comparison"
+                    ],
+                    "esl_considerations": "Teach compare/contrast signal words"
+                }
+            ],
+            "benchmark_targets": {
+                "wcpm_fall": 110,
+                "wcpm_winter": 125,
+                "wcpm_spring": 140
+            }
+        },
+        "grade_6": {
+            "grade": "6",
+            "ela_strand": "Analysis & Argumentation",
+            "outcomes": [
+                {
+                    "code": "6.COM.1",
+                    "area": "Comprehension",
+                    "description": "Cite textual evidence to support analysis",
+                    "skills": [
+                        "text_evidence",
+                        "analysis"
+                    ],
+                    "esl_considerations": "Model citation and analysis language"
+                },
+                {
+                    "code": "6.COM.2",
+                    "area": "Comprehension",
+                    "description": "Determine central idea; provide summary",
+                    "skills": [
+                        "central_idea",
+                        "summarizing"
+                    ],
+                    "esl_considerations": "Distinguish between topic and central idea"
+                },
+                {
+                    "code": "6.ARG.1",
+                    "area": "Argumentation",
+                    "description": "Trace and evaluate argument and claims",
+                    "skills": [
+                        "argumentation",
+                        "evaluation"
+                    ],
+                    "esl_considerations": "Teach claim, evidence, reasoning framework"
+                }
+            ],
+            "benchmark_targets": {
+                "wcpm_fall": 120,
+                "wcpm_spring": 150
+            }
+        }
+    },
+    "assessment_tools": {
+        "oral_reading_fluency": {
+            "name": "Oral Reading Fluency (ORF)",
+            "measures": [
+                "WCPM",
+                "accuracy",
+                "prosody"
+            ],
+            "administration": "1 minute timed reading of grade-level passage",
+            "scoring": {
+                "wcpm": "Words read correctly per minute",
+                "accuracy": "Correct words / total words attempted",
+                "prosody": "1-4 scale for expression and phrasing"
+            }
+        },
+        "maze": {
+            "name": "MAZE",
+            "measures": [
+                "comprehension",
+                "vocabulary"
+            ],
+            "administration": "3 minute silent reading with word choices",
+            "scoring": "Correct responses in 3 minutes"
+        },
+        "phoneme_segmentation": {
+            "name": "Phoneme Segmentation Fluency (PSF)",
+            "measures": [
+                "phonemic_awareness"
+            ],
+            "administration": "1 minute oral segmentation",
+            "scoring": "Correct phonemes per minute"
+        },
+        "letter_naming": {
+            "name": "Letter Naming Fluency (LNF)",
+            "measures": [
+                "alphabet_knowledge"
+            ],
+            "administration": "1 minute letter identification",
+            "scoring": "Letters named correctly per minute"
+        }
+    },
+    "canadian_content_themes": {
+        "elementary": [
+            "Canadian seasons and weather",
+            "Canadian animals and habitats",
+            "Canadian communities and helpers",
+            "Canadian celebrations and traditions",
+            "Canadian geography basics",
+            "First Nations, Métis, and Inuit perspectives (with care)",
+            "Canadian symbols and landmarks",
+            "Multiculturalism in Canada"
+        ],
+        "middle_school": [
+            "Canadian history and confederation",
+            "Provincial and territorial diversity",
+            "Canadian government basics",
+            "Natural resources and environment",
+            "Canadian contributions to science and arts",
+            "Immigration and newcomer experiences",
+            "Treaties and reconciliation",
+            "Canadian identity and values"
+        ],
+        "considerations": [
+            "Use Canadian spellings (colour, centre, favourite)",
+            "Reference Canadian contexts (provinces, cities, currency)",
+            "Include diverse Canadian perspectives",
+            "Approach Indigenous content respectfully with consultation"
+        ]
+    },
+    "pat_preparation": {
+        "description": "Provincial Achievement Test preparation for ELLs",
+        "grade_6_ela": {
+            "components": [
+                "Reading",
+                "Writing"
+            ],
+            "reading_focus": [
+                "Main idea and supporting details",
+                "Inference and interpretation",
+                "Vocabulary in context",
+                "Text structure and features"
+            ],
+            "writing_focus": [
+                "Narrative writing",
+                "Functional writing",
+                "Organization and coherence",
+                "Conventions"
+            ],
+            "ell_strategies": [
+                "Pre-teach academic vocabulary",
+                "Practice with similar text types",
+                "Build familiarity with question formats",
+                "Develop test-taking strategies"
+            ]
+        },
+        "grade_9_ela": {
+            "components": [
+                "Reading",
+                "Writing"
+            ],
+            "academic_vocabulary": [
+                "analyze",
+                "evaluate",
+                "synthesize",
+                "contrast",
+                "evidence",
+                "support",
+                "perspective",
+                "theme"
+            ]
+        }
+    }
+}

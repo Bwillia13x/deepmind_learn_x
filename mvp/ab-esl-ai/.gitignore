@@ -1,0 +1,27 @@
+# Node
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+.next/
+dist/
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/settings.json
+# Models/large assets
+models/
+checkpoints/
+# Logs
+logs/

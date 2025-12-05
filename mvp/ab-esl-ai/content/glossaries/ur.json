@@ -1,0 +1,106 @@
+{
+    "name": "Urdu-English Classroom Glossary",
+    "language_code": "ur",
+    "entries": [
+        {
+            "en": "open",
+            "ur": "کھولیں",
+            "definition": "to make accessible or remove a barrier"
+        },
+        {
+            "en": "close",
+            "ur": "بند کریں",
+            "definition": "to shut or make inaccessible"
+        },
+        {
+            "en": "read",
+            "ur": "پڑھیں",
+            "definition": "to look at and understand written words"
+        },
+        {
+            "en": "write",
+            "ur": "لکھیں",
+            "definition": "to form letters or words on paper"
+        },
+        {
+            "en": "listen",
+            "ur": "سنیں",
+            "definition": "to pay attention to sound"
+        },
+        {
+            "en": "book",
+            "ur": "کتاب",
+            "definition": "a set of printed pages bound together"
+        },
+        {
+            "en": "pencil",
+            "ur": "پنسل",
+            "definition": "a writing instrument with graphite"
+        },
+        {
+            "en": "desk",
+            "ur": "میز",
+            "definition": "a table for work or study"
+        },
+        {
+            "en": "teacher",
+            "ur": "استاد",
+            "definition": "a person who instructs students"
+        },
+        {
+            "en": "student",
+            "ur": "طالب علم",
+            "definition": "a person who is learning"
+        },
+        {
+            "en": "homework",
+            "ur": "گھر کا کام",
+            "definition": "work assigned to be done outside of class"
+        },
+        {
+            "en": "question",
+            "ur": "سوال",
+            "definition": "something asked to get information"
+        },
+        {
+            "en": "answer",
+            "ur": "جواب",
+            "definition": "a reply to a question"
+        },
+        {
+            "en": "page",
+            "ur": "صفحہ",
+            "definition": "one side of a sheet of paper in a book"
+        },
+        {
+            "en": "chapter",
+            "ur": "باب",
+            "definition": "a main division of a book"
+        },
+        {
+            "en": "sentence",
+            "ur": "جملہ",
+            "definition": "a group of words that expresses a complete thought"
+        },
+        {
+            "en": "paragraph",
+            "ur": "پیراگراف",
+            "definition": "a group of sentences about one topic"
+        },
+        {
+            "en": "draw",
+            "ur": "بنائیں",
+            "definition": "to make a picture with pencil or pen"
+        },
+        {
+            "en": "circle",
+            "ur": "دائرہ",
+            "definition": "a round shape"
+        },
+        {
+            "en": "underline",
+            "ur": "لکیر لگائیں",
+            "definition": "to draw a line under words"
+        }
+    ]
+}

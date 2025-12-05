@@ -1,0 +1,280 @@
+{
+    "name": "Minimal Pairs for ESL Pronunciation",
+    "description": "Targeted pronunciation exercises for common ESL challenges",
+    "pairs": [
+        {
+            "id": "pair_l_r",
+            "sounds": [
+                "/l/",
+                "/r/"
+            ],
+            "target_l1": [
+                "ar",
+                "zh",
+                "ko",
+                "ja"
+            ],
+            "difficulty": "medium",
+            "words": [
+                {
+                    "word1": "light",
+                    "word2": "right",
+                    "context": "Turn on the ___."
+                },
+                {
+                    "word1": "lock",
+                    "word2": "rock",
+                    "context": "The ___ is hard."
+                },
+                {
+                    "word1": "long",
+                    "word2": "wrong",
+                    "context": "This answer is ___."
+                },
+                {
+                    "word1": "alive",
+                    "word2": "arrive",
+                    "context": "When will you ___?"
+                }
+            ]
+        },
+        {
+            "id": "pair_b_v",
+            "sounds": [
+                "/b/",
+                "/v/"
+            ],
+            "target_l1": [
+                "es",
+                "ar"
+            ],
+            "difficulty": "easy",
+            "words": [
+                {
+                    "word1": "boat",
+                    "word2": "vote",
+                    "context": "Cast your ___."
+                },
+                {
+                    "word1": "berry",
+                    "word2": "very",
+                    "context": "It's ___ good."
+                },
+                {
+                    "word1": "ban",
+                    "word2": "van",
+                    "context": "The delivery ___."
+                },
+                {
+                    "word1": "best",
+                    "word2": "vest",
+                    "context": "Wear the safety ___."
+                }
+            ]
+        },
+        {
+            "id": "pair_th_s",
+            "sounds": [
+                "/θ/",
+                "/s/"
+            ],
+            "target_l1": [
+                "es",
+                "fr",
+                "zh",
+                "ar"
+            ],
+            "difficulty": "hard",
+            "words": [
+                {
+                    "word1": "think",
+                    "word2": "sink",
+                    "context": "The ___ is clogged."
+                },
+                {
+                    "word1": "thick",
+                    "word2": "sick",
+                    "context": "I feel ___."
+                },
+                {
+                    "word1": "thank",
+                    "word2": "sank",
+                    "context": "The boat ___."
+                },
+                {
+                    "word1": "math",
+                    "word2": "mass",
+                    "context": "Calculate the ___."
+                }
+            ]
+        },
+        {
+            "id": "pair_th_t",
+            "sounds": [
+                "/θ/",
+                "/t/"
+            ],
+            "target_l1": [
+                "ar",
+                "fr",
+                "vi"
+            ],
+            "difficulty": "medium",
+            "words": [
+                {
+                    "word1": "three",
+                    "word2": "tree",
+                    "context": "Plant the ___."
+                },
+                {
+                    "word1": "thin",
+                    "word2": "tin",
+                    "context": "A ___ can."
+                },
+                {
+                    "word1": "thought",
+                    "word2": "taught",
+                    "context": "She ___ math."
+                },
+                {
+                    "word1": "path",
+                    "word2": "pat",
+                    "context": "___ the dog."
+                }
+            ]
+        },
+        {
+            "id": "pair_p_f",
+            "sounds": [
+                "/p/",
+                "/f/"
+            ],
+            "target_l1": [
+                "ar",
+                "ko"
+            ],
+            "difficulty": "easy",
+            "words": [
+                {
+                    "word1": "peel",
+                    "word2": "feel",
+                    "context": "How do you ___?"
+                },
+                {
+                    "word1": "pull",
+                    "word2": "full",
+                    "context": "The tank is ___."
+                },
+                {
+                    "word1": "copy",
+                    "word2": "coffee",
+                    "context": "Drink ___."
+                },
+                {
+                    "word1": "pan",
+                    "word2": "fan",
+                    "context": "Turn on the ___."
+                }
+            ]
+        },
+        {
+            "id": "pair_sh_ch",
+            "sounds": [
+                "/ʃ/",
+                "/tʃ/"
+            ],
+            "target_l1": [
+                "es",
+                "pt",
+                "ar"
+            ],
+            "difficulty": "medium",
+            "words": [
+                {
+                    "word1": "ship",
+                    "word2": "chip",
+                    "context": "A potato ___."
+                },
+                {
+                    "word1": "shop",
+                    "word2": "chop",
+                    "context": "___ the wood."
+                },
+                {
+                    "word1": "wash",
+                    "word2": "watch",
+                    "context": "___ the time."
+                },
+                {
+                    "word1": "cash",
+                    "word2": "catch",
+                    "context": "___ the ball."
+                }
+            ]
+        },
+        {
+            "id": "pair_vowel_ee_i",
+            "sounds": [
+                "/i:/",
+                "/ɪ/"
+            ],
+            "target_l1": [
+                "es",
+                "ar",
+                "fr",
+                "pt"
+            ],
+            "difficulty": "hard",
+            "words": [
+                {
+                    "word1": "sheep",
+                    "word2": "ship",
+                    "context": "The cargo ___."
+                },
+                {
+                    "word1": "beat",
+                    "word2": "bit",
+                    "context": "A small ___."
+                },
+                {
+                    "word1": "live",
+                    "word2": "leave",
+                    "context": "Time to ___."
+                },
+                {
+                    "word1": "seat",
+                    "word2": "sit",
+                    "context": "Please ___ down."
+                }
+            ]
+        }
+    ],
+    "practice_sentences": [
+        {
+            "target_sound": "/r/",
+            "sentence": "Read the red book on the right.",
+            "focus_words": [
+                "read",
+                "red",
+                "right"
+            ]
+        },
+        {
+            "target_sound": "/θ/",
+            "sentence": "Think about three things.",
+            "focus_words": [
+                "think",
+                "three",
+                "things"
+            ]
+        },
+        {
+            "target_sound": "/v/",
+            "sentence": "Very good work on the vocabulary.",
+            "focus_words": [
+                "very",
+                "vocabulary"
+            ]
+        }
+    ]
+}

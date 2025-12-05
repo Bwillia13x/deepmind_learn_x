@@ -1,0 +1,106 @@
+{
+    "name": "French-English Classroom Glossary",
+    "language_code": "fr",
+    "entries": [
+        {
+            "en": "open",
+            "fr": "ouvre",
+            "definition": "to make accessible or remove a barrier"
+        },
+        {
+            "en": "close",
+            "fr": "ferme",
+            "definition": "to shut or make inaccessible"
+        },
+        {
+            "en": "read",
+            "fr": "lis",
+            "definition": "to look at and understand written words"
+        },
+        {
+            "en": "write",
+            "fr": "écris",
+            "definition": "to form letters or words on paper"
+        },
+        {
+            "en": "listen",
+            "fr": "écoute",
+            "definition": "to pay attention to sound"
+        },
+        {
+            "en": "book",
+            "fr": "livre",
+            "definition": "a set of printed pages bound together"
+        },
+        {
+            "en": "pencil",
+            "fr": "crayon",
+            "definition": "a writing instrument with graphite"
+        },
+        {
+            "en": "desk",
+            "fr": "bureau",
+            "definition": "a table for work or study"
+        },
+        {
+            "en": "teacher",
+            "fr": "enseignant",
+            "definition": "a person who instructs students"
+        },
+        {
+            "en": "student",
+            "fr": "étudiant",
+            "definition": "a person who is learning"
+        },
+        {
+            "en": "homework",
+            "fr": "devoirs",
+            "definition": "work assigned to be done outside of class"
+        },
+        {
+            "en": "question",
+            "fr": "question",
+            "definition": "something asked to get information"
+        },
+        {
+            "en": "answer",
+            "fr": "réponse",
+            "definition": "a reply to a question"
+        },
+        {
+            "en": "page",
+            "fr": "page",
+            "definition": "one side of a sheet of paper in a book"
+        },
+        {
+            "en": "chapter",
+            "fr": "chapitre",
+            "definition": "a main division of a book"
+        },
+        {
+            "en": "sentence",
+            "fr": "phrase",
+            "definition": "a group of words that expresses a complete thought"
+        },
+        {
+            "en": "paragraph",
+            "fr": "paragraphe",
+            "definition": "a group of sentences about one topic"
+        },
+        {
+            "en": "draw",
+            "fr": "dessine",
+            "definition": "to make a picture with pencil or pen"
+        },
+        {
+            "en": "circle",
+            "fr": "cercle",
+            "definition": "a round shape"
+        },
+        {
+            "en": "underline",
+            "fr": "souligne",
+            "definition": "to draw a line under words"
+        }
+    ]
+}

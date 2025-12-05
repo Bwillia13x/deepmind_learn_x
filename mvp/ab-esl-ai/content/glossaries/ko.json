@@ -1,0 +1,106 @@
+{
+    "name": "Korean-English Classroom Glossary",
+    "language_code": "ko",
+    "entries": [
+        {
+            "en": "open",
+            "ko": "열다",
+            "definition": "to make accessible or remove a barrier"
+        },
+        {
+            "en": "close",
+            "ko": "닫다",
+            "definition": "to shut or make inaccessible"
+        },
+        {
+            "en": "read",
+            "ko": "읽다",
+            "definition": "to look at and understand written words"
+        },
+        {
+            "en": "write",
+            "ko": "쓰다",
+            "definition": "to form letters or words on paper"
+        },
+        {
+            "en": "listen",
+            "ko": "듣다",
+            "definition": "to pay attention to sound"
+        },
+        {
+            "en": "book",
+            "ko": "책",
+            "definition": "a set of printed pages bound together"
+        },
+        {
+            "en": "pencil",
+            "ko": "연필",
+            "definition": "a writing instrument with graphite"
+        },
+        {
+            "en": "desk",
+            "ko": "책상",
+            "definition": "a table for work or study"
+        },
+        {
+            "en": "teacher",
+            "ko": "선생님",
+            "definition": "a person who instructs students"
+        },
+        {
+            "en": "student",
+            "ko": "학생",
+            "definition": "a person who is learning"
+        },
+        {
+            "en": "homework",
+            "ko": "숙제",
+            "definition": "work assigned to be done outside of class"
+        },
+        {
+            "en": "question",
+            "ko": "질문",
+            "definition": "something asked to get information"
+        },
+        {
+            "en": "answer",
+            "ko": "답변",
+            "definition": "a reply to a question"
+        },
+        {
+            "en": "page",
+            "ko": "페이지",
+            "definition": "one side of a sheet of paper in a book"
+        },
+        {
+            "en": "chapter",
+            "ko": "장",
+            "definition": "a main division of a book"
+        },
+        {
+            "en": "sentence",
+            "ko": "문장",
+            "definition": "a group of words that expresses a complete thought"
+        },
+        {
+            "en": "paragraph",
+            "ko": "단락",
+            "definition": "a group of sentences about one topic"
+        },
+        {
+            "en": "draw",
+            "ko": "그리다",
+            "definition": "to make a picture with pencil or pen"
+        },
+        {
+            "en": "circle",
+            "ko": "원",
+            "definition": "a round shape"
+        },
+        {
+            "en": "underline",
+            "ko": "밑줄 긋다",
+            "definition": "to draw a line under words"
+        }
+    ]
+}

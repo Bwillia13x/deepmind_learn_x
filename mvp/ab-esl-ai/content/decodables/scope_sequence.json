@@ -1,0 +1,283 @@
+{
+    "name": "Phonics Scope and Sequence",
+    "description": "Systematic phonics progression for decodable text generation",
+    "levels": [
+        {
+            "level": 1,
+            "name": "Beginning Consonants and Short A",
+            "graphemes": [
+                "m",
+                "s",
+                "t",
+                "a"
+            ],
+            "sight_words": [
+                "a",
+                "I"
+            ],
+            "sample_words": [
+                "mat",
+                "sat",
+                "tam",
+                "sam",
+                "am",
+                "at"
+            ]
+        },
+        {
+            "level": 2,
+            "name": "More Consonants and Short A",
+            "graphemes": [
+                "m",
+                "s",
+                "t",
+                "a",
+                "p",
+                "n",
+                "c"
+            ],
+            "sight_words": [
+                "a",
+                "I",
+                "the"
+            ],
+            "sample_words": [
+                "cat",
+                "pat",
+                "can",
+                "pan",
+                "tan",
+                "cap",
+                "nap",
+                "tap"
+            ]
+        },
+        {
+            "level": 3,
+            "name": "Short Vowels",
+            "graphemes": [
+                "m",
+                "s",
+                "t",
+                "a",
+                "p",
+                "n",
+                "c",
+                "i",
+                "d",
+                "f",
+                "g",
+                "h",
+                "b",
+                "l",
+                "r"
+            ],
+            "sight_words": [
+                "a",
+                "I",
+                "the",
+                "is",
+                "was"
+            ],
+            "sample_words": [
+                "big",
+                "dig",
+                "fig",
+                "hit",
+                "sit",
+                "lid",
+                "rid",
+                "glad",
+                "flag"
+            ]
+        },
+        {
+            "level": 4,
+            "name": "Short E and O",
+            "graphemes": [
+                "m",
+                "s",
+                "t",
+                "a",
+                "p",
+                "n",
+                "c",
+                "i",
+                "d",
+                "f",
+                "g",
+                "h",
+                "b",
+                "l",
+                "r",
+                "e",
+                "o",
+                "k",
+                "j",
+                "w",
+                "v"
+            ],
+            "sight_words": [
+                "a",
+                "I",
+                "the",
+                "is",
+                "was",
+                "to",
+                "and"
+            ],
+            "sample_words": [
+                "bed",
+                "red",
+                "led",
+                "hen",
+                "pen",
+                "jet",
+                "hot",
+                "dot",
+                "got",
+                "lock",
+                "rock"
+            ]
+        },
+        {
+            "level": 5,
+            "name": "Short U and Blends",
+            "graphemes": [
+                "all letters",
+                "bl",
+                "cl",
+                "fl",
+                "gl",
+                "pl",
+                "sl",
+                "br",
+                "cr",
+                "dr",
+                "fr",
+                "gr",
+                "pr",
+                "tr"
+            ],
+            "sight_words": [
+                "a",
+                "I",
+                "the",
+                "is",
+                "was",
+                "to",
+                "and",
+                "you",
+                "he",
+                "she"
+            ],
+            "sample_words": [
+                "bug",
+                "rug",
+                "tug",
+                "club",
+                "grad",
+                "slip",
+                "trip",
+                "frog",
+                "glad"
+            ]
+        },
+        {
+            "level": 6,
+            "name": "Digraphs",
+            "graphemes": [
+                "all previous",
+                "sh",
+                "ch",
+                "th",
+                "wh",
+                "ck",
+                "ng"
+            ],
+            "sight_words": [
+                "a",
+                "I",
+                "the",
+                "is",
+                "was",
+                "to",
+                "and",
+                "you",
+                "he",
+                "she",
+                "of",
+                "my",
+                "said"
+            ],
+            "sample_words": [
+                "ship",
+                "shop",
+                "chip",
+                "chop",
+                "that",
+                "this",
+                "when",
+                "which",
+                "duck",
+                "ring"
+            ]
+        },
+        {
+            "level": 7,
+            "name": "Long Vowels - CVCe",
+            "graphemes": [
+                "all previous",
+                "a_e",
+                "i_e",
+                "o_e",
+                "u_e"
+            ],
+            "sight_words": [
+                "all previous",
+                "are",
+                "have",
+                "they",
+                "some"
+            ],
+            "sample_words": [
+                "make",
+                "cake",
+                "like",
+                "bike",
+                "hope",
+                "rope",
+                "cute",
+                "tube"
+            ]
+        },
+        {
+            "level": 8,
+            "name": "Vowel Teams",
+            "graphemes": [
+                "all previous",
+                "ai",
+                "ay",
+                "ee",
+                "ea",
+                "oa",
+                "ow"
+            ],
+            "sight_words": [
+                "all previous",
+                "were",
+                "there",
+                "what",
+                "from"
+            ],
+            "sample_words": [
+                "rain",
+                "day",
+                "tree",
+                "read",
+                "boat",
+                "snow"
+            ]
+        }
+    ]
+}

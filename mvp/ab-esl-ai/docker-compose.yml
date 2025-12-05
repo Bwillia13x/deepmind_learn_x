@@ -1,0 +1,78 @@
+version: "3.9"
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: ab_esl_db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-dev}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-devpass}
+      POSTGRES_DB: ${POSTGRES_DB:-ab_esl_ai}
+    ports: ["5433:5432"]
+    volumes:
+      - db_data:/var/lib/postgresql/data
+      - ./infra/docker/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+
+  redis:
+    image: redis:7
+    container_name: ab_esl_redis
+    ports: ["6380:6379"]
+
+  minio:
+    image: minio/minio:latest
+    container_name: ab_esl_minio
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ACCESS_KEY:-minioadmin}
+      MINIO_ROOT_PASSWORD: ${MINIO_SECRET_KEY:-minioadmin}
+    command: server /data --console-address ":9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio_data:/data
+
+  api:
+    build:
+      context: ./backend/api
+      dockerfile: Dockerfile
+    container_name: ab_esl_api
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-dev}:${POSTGRES_PASSWORD:-devpass}@db:5432/${POSTGRES_DB:-ab_esl_ai}
+      REDIS_URL: redis://redis:6379
+      ENVIRONMENT: development
+      ENABLE_ASR: ${ENABLE_ASR:-false}
+      ENABLE_LLM: ${ENABLE_LLM:-false}
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - redis
+    volumes:
+      - ./content:/app/content:ro
+
+  teacher-portal:
+    build:
+      context: ./apps/teacher-portal
+      dockerfile: Dockerfile
+    container_name: ab_esl_teacher
+    environment:
+      NEXT_PUBLIC_API_URL: http://api:8000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+
+  student-app:
+    build:
+      context: ./apps/student-app
+      dockerfile: Dockerfile
+    container_name: ab_esl_student
+    environment:
+      NEXT_PUBLIC_API_URL: http://api:8000
+    ports:
+      - "3001:3001"
+    depends_on:
+      - api
+
+volumes:
+  db_data:
+  minio_data:

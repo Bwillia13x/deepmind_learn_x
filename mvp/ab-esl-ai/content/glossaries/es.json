@@ -1,0 +1,406 @@
+{
+    "name": "Spanish-English Classroom Glossary",
+    "language_code": "es",
+    "entries": [
+        {
+            "en": "open",
+            "es": "abre",
+            "definition": "to make accessible or remove a barrier"
+        },
+        {
+            "en": "close",
+            "es": "cierra",
+            "definition": "to shut or make inaccessible"
+        },
+        {
+            "en": "read",
+            "es": "lee",
+            "definition": "to look at and understand written words"
+        },
+        {
+            "en": "write",
+            "es": "escribe",
+            "definition": "to form letters or words on paper"
+        },
+        {
+            "en": "listen",
+            "es": "escucha",
+            "definition": "to pay attention to sound"
+        },
+        {
+            "en": "book",
+            "es": "libro",
+            "definition": "a set of printed pages bound together"
+        },
+        {
+            "en": "pencil",
+            "es": "lápiz",
+            "definition": "a writing instrument with graphite"
+        },
+        {
+            "en": "desk",
+            "es": "escritorio",
+            "definition": "a table for work or study"
+        },
+        {
+            "en": "teacher",
+            "es": "maestro",
+            "definition": "a person who instructs students"
+        },
+        {
+            "en": "student",
+            "es": "estudiante",
+            "definition": "a person who is learning"
+        },
+        {
+            "en": "homework",
+            "es": "tarea",
+            "definition": "work assigned to be done outside of class"
+        },
+        {
+            "en": "question",
+            "es": "pregunta",
+            "definition": "something asked to get information"
+        },
+        {
+            "en": "answer",
+            "es": "respuesta",
+            "definition": "a reply to a question"
+        },
+        {
+            "en": "page",
+            "es": "página",
+            "definition": "one side of a sheet of paper in a book"
+        },
+        {
+            "en": "chapter",
+            "es": "capítulo",
+            "definition": "a main division of a book"
+        },
+        {
+            "en": "sentence",
+            "es": "oración",
+            "definition": "a group of words that expresses a complete thought"
+        },
+        {
+            "en": "paragraph",
+            "es": "párrafo",
+            "definition": "a group of sentences about one topic"
+        },
+        {
+            "en": "draw",
+            "es": "dibuja",
+            "definition": "to make a picture with pencil or pen"
+        },
+        {
+            "en": "circle",
+            "es": "círculo",
+            "definition": "a round shape"
+        },
+        {
+            "en": "underline",
+            "es": "subraya",
+            "definition": "to draw a line under words"
+        },
+        {
+            "en": "water",
+            "es": "agua",
+            "definition": "a clear liquid needed for life"
+        },
+        {
+            "en": "cycle",
+            "es": "ciclo",
+            "definition": "a series that repeats"
+        },
+        {
+            "en": "sun",
+            "es": "sol",
+            "definition": "the star that gives light and heat"
+        },
+        {
+            "en": "cloud",
+            "es": "nube",
+            "definition": "white or gray mass in the sky"
+        },
+        {
+            "en": "rain",
+            "es": "lluvia",
+            "definition": "water falling from clouds"
+        },
+        {
+            "en": "snow",
+            "es": "nieve",
+            "definition": "frozen water falling from clouds"
+        },
+        {
+            "en": "plant",
+            "es": "planta",
+            "definition": "a living thing that grows in soil"
+        },
+        {
+            "en": "soil",
+            "es": "tierra",
+            "definition": "the top layer of earth where plants grow"
+        },
+        {
+            "en": "light",
+            "es": "luz",
+            "definition": "brightness from sun or lamp"
+        },
+        {
+            "en": "grow",
+            "es": "crecer",
+            "definition": "to get bigger"
+        },
+        {
+            "en": "fraction",
+            "es": "fracción",
+            "definition": "a part of a whole number"
+        },
+        {
+            "en": "number",
+            "es": "número",
+            "definition": "a symbol used for counting"
+        },
+        {
+            "en": "equal",
+            "es": "igual",
+            "definition": "the same in amount or value"
+        },
+        {
+            "en": "whole",
+            "es": "entero",
+            "definition": "complete, not divided"
+        },
+        {
+            "en": "part",
+            "es": "parte",
+            "definition": "a piece of something larger"
+        },
+        {
+            "en": "family",
+            "es": "familia",
+            "definition": "parents, children, and relatives"
+        },
+        {
+            "en": "friend",
+            "es": "amigo",
+            "definition": "someone you like and trust"
+        },
+        {
+            "en": "school",
+            "es": "escuela",
+            "definition": "a place where children learn"
+        },
+        {
+            "en": "classroom",
+            "es": "aula",
+            "definition": "a room where students learn"
+        },
+        {
+            "en": "kind",
+            "es": "amable",
+            "definition": "friendly and caring"
+        },
+        {
+            "en": "help",
+            "es": "ayuda",
+            "definition": "to assist someone"
+        },
+        {
+            "en": "morning",
+            "es": "mañana",
+            "definition": "the early part of the day"
+        },
+        {
+            "en": "afternoon",
+            "es": "tarde",
+            "definition": "the time between noon and evening"
+        },
+        {
+            "en": "season",
+            "es": "estación",
+            "definition": "one of the four parts of the year"
+        },
+        {
+            "en": "spring",
+            "es": "primavera",
+            "definition": "the season after winter"
+        },
+        {
+            "en": "summer",
+            "es": "verano",
+            "definition": "the warmest season"
+        },
+        {
+            "en": "fall",
+            "es": "otoño",
+            "definition": "the season after summer"
+        },
+        {
+            "en": "winter",
+            "es": "invierno",
+            "definition": "the coldest season"
+        },
+        {
+            "en": "healthy",
+            "es": "saludable",
+            "definition": "good for your body"
+        },
+        {
+            "en": "food",
+            "es": "comida",
+            "definition": "what we eat"
+        },
+        {
+            "en": "body",
+            "es": "cuerpo",
+            "definition": "the physical form of a person"
+        },
+        {
+            "en": "energy",
+            "es": "energía",
+            "definition": "the power to do work"
+        },
+        {
+            "en": "strong",
+            "es": "fuerte",
+            "definition": "having power or force"
+        },
+        {
+            "en": "planet",
+            "es": "planeta",
+            "definition": "a large object that orbits a star"
+        },
+        {
+            "en": "earth",
+            "es": "tierra",
+            "definition": "the planet we live on"
+        },
+        {
+            "en": "moon",
+            "es": "luna",
+            "definition": "a natural object orbiting a planet"
+        },
+        {
+            "en": "star",
+            "es": "estrella",
+            "definition": "a bright point of light in the night sky"
+        },
+        {
+            "en": "animal",
+            "es": "animal",
+            "definition": "a living creature that moves"
+        },
+        {
+            "en": "bird",
+            "es": "pájaro",
+            "definition": "a creature with feathers and wings"
+        },
+        {
+            "en": "fish",
+            "es": "pez",
+            "definition": "a creature that lives in water"
+        },
+        {
+            "en": "tree",
+            "es": "árbol",
+            "definition": "a tall plant with a trunk"
+        },
+        {
+            "en": "forest",
+            "es": "bosque",
+            "definition": "an area with many trees"
+        },
+        {
+            "en": "mountain",
+            "es": "montaña",
+            "definition": "a very tall hill"
+        },
+        {
+            "en": "river",
+            "es": "río",
+            "definition": "a large stream of water"
+        },
+        {
+            "en": "lake",
+            "es": "lago",
+            "definition": "a body of water surrounded by land"
+        },
+        {
+            "en": "map",
+            "es": "mapa",
+            "definition": "a picture showing places"
+        },
+        {
+            "en": "north",
+            "es": "norte",
+            "definition": "the direction toward the top of a map"
+        },
+        {
+            "en": "south",
+            "es": "sur",
+            "definition": "the direction toward the bottom of a map"
+        },
+        {
+            "en": "east",
+            "es": "este",
+            "definition": "the direction where the sun rises"
+        },
+        {
+            "en": "west",
+            "es": "oeste",
+            "definition": "the direction where the sun sets"
+        },
+        {
+            "en": "happy",
+            "es": "feliz",
+            "definition": "feeling joy"
+        },
+        {
+            "en": "sad",
+            "es": "triste",
+            "definition": "feeling unhappy"
+        },
+        {
+            "en": "angry",
+            "es": "enojado",
+            "definition": "feeling mad"
+        },
+        {
+            "en": "scared",
+            "es": "asustado",
+            "definition": "feeling afraid"
+        },
+        {
+            "en": "safe",
+            "es": "seguro",
+            "definition": "not in danger"
+        },
+        {
+            "en": "machine",
+            "es": "máquina",
+            "definition": "a device that does work"
+        },
+        {
+            "en": "electricity",
+            "es": "electricidad",
+            "definition": "a form of energy"
+        },
+        {
+            "en": "gravity",
+            "es": "gravedad",
+            "definition": "the force that pulls things down"
+        },
+        {
+            "en": "temperature",
+            "es": "temperatura",
+            "definition": "how hot or cold something is"
+        },
+        {
+            "en": "weather",
+            "es": "tiempo",
+            "definition": "conditions outside like rain or sun"
+        }
+    ]
+}

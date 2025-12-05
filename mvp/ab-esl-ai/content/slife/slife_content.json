@@ -1,0 +1,463 @@
+{
+    "name": "SLIFE Content Library",
+    "description": "Age-appropriate, low-reading-level content for Students with Limited or Interrupted Formal Education",
+    "version": "1.0.0",
+    "created": "2024-12",
+    "slife_overview": {
+        "definition": "Students with Limited or Interrupted Formal Education - newcomers who have had gaps in their schooling due to war, displacement, poverty, or lack of access",
+        "alberta_context": "Many newcomer students to Alberta, particularly from refugee backgrounds, may have 2+ years below expected grade-level schooling",
+        "key_challenges": [
+            "Limited or no L1 literacy foundation",
+            "Gaps in foundational academic skills",
+            "Age-grade mismatch (older but need foundational instruction)",
+            "Need age-appropriate but accessible content",
+            "May need to learn 'how to do school'"
+        ]
+    },
+    "content_principles": {
+        "age_appropriate_topics": "Content addresses interests and experiences of older learners",
+        "low_reading_level": "Text is at emergent to early intermediate reading levels",
+        "visual_support": "Heavy use of images, diagrams, and graphic organizers",
+        "scaffolded": "Content builds systematically with clear progression",
+        "culturally_responsive": "Includes diverse perspectives and avoids cultural bias",
+        "practical_relevance": "Connects to real-world needs and daily life"
+    },
+    "reading_levels": {
+        "level_1": {
+            "name": "Emergent",
+            "characteristics": [
+                "Single words and simple phrases",
+                "Heavy picture support",
+                "Repetitive patterns",
+                "High-frequency words only"
+            ],
+            "target_students": "New to print literacy, any age"
+        },
+        "level_2": {
+            "name": "Early",
+            "characteristics": [
+                "Simple sentences (5-7 words)",
+                "Strong picture-text match",
+                "Decodable words + sight words",
+                "Predictable patterns"
+            ],
+            "target_students": "Beginning readers"
+        },
+        "level_3": {
+            "name": "Transitional",
+            "characteristics": [
+                "Short paragraphs",
+                "Mix of simple and compound sentences",
+                "Tier 1 and some Tier 2 vocabulary",
+                "Clear main idea structure"
+            ],
+            "target_students": "Developing fluency"
+        }
+    },
+    "passages": [
+        {
+            "id": "slife_001",
+            "title": "My New School",
+            "level": 1,
+            "topic": "school_orientation",
+            "age_range": "10-18",
+            "word_count": 45,
+            "text": "This is my school. It is big. I see many rooms. This is my classroom. My teacher is here. My desk is here. I sit here every day. I am learning.",
+            "vocabulary": [
+                "school",
+                "classroom",
+                "teacher",
+                "desk",
+                "learning"
+            ],
+            "skills": [
+                "sight_words",
+                "school_vocabulary"
+            ],
+            "discussion_questions": [
+                "What do you see in your classroom?",
+                "Where is your desk?"
+            ],
+            "cultural_note": "Schools may be very different from students' prior experiences"
+        },
+        {
+            "id": "slife_002",
+            "title": "Getting Food at School",
+            "level": 1,
+            "topic": "daily_life",
+            "age_range": "10-18",
+            "word_count": 52,
+            "text": "It is lunch time. I go to the lunch room. I get in line. I wait my turn. I get a tray. I get food. I find a table. I sit and eat. The food is good.",
+            "vocabulary": [
+                "lunch",
+                "line",
+                "tray",
+                "table",
+                "wait"
+            ],
+            "skills": [
+                "sight_words",
+                "sequencing",
+                "school_routines"
+            ],
+            "discussion_questions": [
+                "What do you eat for lunch?",
+                "Who do you sit with?"
+            ]
+        },
+        {
+            "id": "slife_003",
+            "title": "Using the Bus",
+            "level": 2,
+            "topic": "transportation",
+            "age_range": "10-18",
+            "word_count": 68,
+            "text": "I take the bus to school. The bus is yellow. I wait at the bus stop. The bus comes at 8:00. I get on the bus. I show my bus pass. I find a seat. The bus drives to school. I get off the bus at school. I walk to my class.",
+            "vocabulary": [
+                "bus",
+                "bus stop",
+                "bus pass",
+                "seat",
+                "wait"
+            ],
+            "skills": [
+                "sequencing",
+                "time",
+                "transportation_vocabulary"
+            ],
+            "discussion_questions": [
+                "How do you get to school?",
+                "What time does your bus come?"
+            ]
+        },
+        {
+            "id": "slife_004",
+            "title": "My Family",
+            "level": 2,
+            "topic": "family",
+            "age_range": "10-18",
+            "word_count": 75,
+            "text": "I have a family. My family is important to me. I live with my mother and father. I have two sisters. My grandmother lives with us too. We help each other. We eat dinner together. We talk about our day. Family is special. I love my family.",
+            "vocabulary": [
+                "family",
+                "mother",
+                "father",
+                "grandmother",
+                "together"
+            ],
+            "skills": [
+                "family_vocabulary",
+                "present_tense"
+            ],
+            "discussion_questions": [
+                "Who is in your family?",
+                "What do you do together?"
+            ],
+            "cultural_note": "Family structures vary; be inclusive of different family compositions"
+        },
+        {
+            "id": "slife_005",
+            "title": "Going to the Doctor",
+            "level": 2,
+            "topic": "health",
+            "age_range": "12-18",
+            "word_count": 82,
+            "text": "Sometimes I feel sick. When I am sick, I go to the doctor. First, I call the clinic. I make an appointment. Then I go to the clinic. I sit in the waiting room. A nurse calls my name. The doctor asks questions. The doctor helps me feel better. Medicine can help too.",
+            "vocabulary": [
+                "doctor",
+                "clinic",
+                "appointment",
+                "nurse",
+                "medicine"
+            ],
+            "skills": [
+                "health_vocabulary",
+                "sequencing",
+                "present_tense"
+            ],
+            "discussion_questions": [
+                "When do you go to the doctor?",
+                "What do you say when you call the clinic?"
+            ]
+        },
+        {
+            "id": "slife_006",
+            "title": "Shopping for Groceries",
+            "level": 2,
+            "topic": "daily_life",
+            "age_range": "12-18",
+            "word_count": 88,
+            "text": "I go to the grocery store with my family. We make a list before we go. At the store, we get a cart. We walk down the aisles. We find the food on our list. We put the food in the cart. We pay at the checkout. The cashier scans our food. We pay with money or a card. Then we take the bags home.",
+            "vocabulary": [
+                "grocery store",
+                "cart",
+                "aisle",
+                "checkout",
+                "cashier"
+            ],
+            "skills": [
+                "shopping_vocabulary",
+                "sequencing",
+                "money"
+            ],
+            "discussion_questions": [
+                "Where do you buy food?",
+                "How do you pay for groceries?"
+            ]
+        },
+        {
+            "id": "slife_007",
+            "title": "Canada Has Four Seasons",
+            "level": 3,
+            "topic": "canadian_culture",
+            "age_range": "10-18",
+            "word_count": 105,
+            "text": "Canada has four seasons: spring, summer, fall, and winter. In spring, the snow melts. Flowers start to grow. The weather gets warmer. In summer, it is hot. People go outside and swim. In fall, leaves change color. They turn red, orange, and yellow. The weather gets cooler. In winter, it snows. It is very cold in Alberta. People wear warm coats, hats, and gloves. Each season is different and beautiful.",
+            "vocabulary": [
+                "seasons",
+                "spring",
+                "summer",
+                "fall",
+                "winter",
+                "weather"
+            ],
+            "skills": [
+                "vocabulary",
+                "reading_comprehension",
+                "canadian_content"
+            ],
+            "discussion_questions": [
+                "What is your favorite season?",
+                "How is the weather different from your home country?"
+            ]
+        },
+        {
+            "id": "slife_008",
+            "title": "Getting a Job",
+            "level": 3,
+            "topic": "employment",
+            "age_range": "15-18",
+            "word_count": 118,
+            "text": "Many students want a part-time job. A job helps you earn money. First, you need to write a resume. A resume tells about your skills and experience. Then you look for jobs. You can look online or ask at stores. When you find a job you like, you apply. You fill out an application. If they like your application, they call you. You go for an interview. In the interview, they ask you questions. You tell them about yourself. If you do well, they offer you the job!",
+            "vocabulary": [
+                "job",
+                "resume",
+                "application",
+                "interview",
+                "skills"
+            ],
+            "skills": [
+                "employment_vocabulary",
+                "sequencing",
+                "life_skills"
+            ],
+            "discussion_questions": [
+                "What kind of job would you like?",
+                "What skills do you have?"
+            ]
+        },
+        {
+            "id": "slife_009",
+            "title": "Using a Map",
+            "level": 2,
+            "topic": "life_skills",
+            "age_range": "10-18",
+            "word_count": 72,
+            "text": "A map helps you find places. This map shows my neighborhood. The blue lines are streets. The green spaces are parks. The red dot shows where I am. I want to go to the library. I follow the map. I turn left. I walk straight. The library is on the right. Maps are very helpful!",
+            "vocabulary": [
+                "map",
+                "neighborhood",
+                "streets",
+                "left",
+                "right",
+                "straight"
+            ],
+            "skills": [
+                "directions_vocabulary",
+                "following_instructions",
+                "life_skills"
+            ]
+        },
+        {
+            "id": "slife_010",
+            "title": "Staying Safe Online",
+            "level": 3,
+            "topic": "digital_literacy",
+            "age_range": "12-18",
+            "word_count": 98,
+            "text": "The internet is useful, but we need to stay safe. Here are some tips. Never share your password. Only talk to people you know. If someone online makes you uncomfortable, tell an adult. Don't click on strange links. They might be dangerous. Be careful what you share. Once you post something, everyone can see it. Use privacy settings on your accounts. If you see something bad, tell a trusted adult. Staying safe online is important.",
+            "vocabulary": [
+                "internet",
+                "password",
+                "privacy",
+                "settings",
+                "account"
+            ],
+            "skills": [
+                "digital_literacy",
+                "safety_vocabulary",
+                "imperatives"
+            ]
+        }
+    ],
+    "topic_categories": {
+        "school_orientation": {
+            "description": "Understanding school routines and expectations",
+            "subtopics": [
+                "classroom",
+                "schedule",
+                "rules",
+                "supplies",
+                "staff"
+            ]
+        },
+        "daily_life": {
+            "description": "Everyday activities and routines",
+            "subtopics": [
+                "food",
+                "shopping",
+                "transportation",
+                "home",
+                "time"
+            ]
+        },
+        "health": {
+            "description": "Health, body, and medical topics",
+            "subtopics": [
+                "doctor",
+                "feelings",
+                "hygiene",
+                "nutrition",
+                "exercise"
+            ]
+        },
+        "family": {
+            "description": "Family relationships and home life",
+            "subtopics": [
+                "family_members",
+                "home",
+                "celebrations",
+                "responsibilities"
+            ]
+        },
+        "canadian_culture": {
+            "description": "Canadian life, culture, and geography",
+            "subtopics": [
+                "seasons",
+                "holidays",
+                "geography",
+                "government",
+                "customs"
+            ]
+        },
+        "employment": {
+            "description": "Jobs, careers, and workplace skills",
+            "subtopics": [
+                "job_search",
+                "interview",
+                "workplace",
+                "money"
+            ]
+        },
+        "life_skills": {
+            "description": "Practical skills for independence",
+            "subtopics": [
+                "directions",
+                "phone",
+                "banking",
+                "safety"
+            ]
+        },
+        "digital_literacy": {
+            "description": "Technology and online skills",
+            "subtopics": [
+                "internet",
+                "devices",
+                "safety",
+                "communication"
+            ]
+        }
+    },
+    "scaffolding_strategies": {
+        "visual_support": [
+            "Photographs of real people and places",
+            "Labeled diagrams",
+            "Graphic organizers",
+            "Picture dictionaries",
+            "Word walls with images"
+        ],
+        "language_support": [
+            "L1 glossaries for key terms",
+            "Sentence frames for responses",
+            "Word banks",
+            "Audio recordings of text",
+            "Simplified instructions"
+        ],
+        "comprehension_support": [
+            "Pre-reading vocabulary preview",
+            "Picture walks before reading",
+            "Think-alouds during reading",
+            "Graphic organizers for main ideas",
+            "Partner reading"
+        ]
+    },
+    "school_readiness_skills": {
+        "description": "Skills students may need to learn for academic success",
+        "skills": [
+            {
+                "skill": "Using a Pencil",
+                "why_needed": "Many writing tasks require pencil use",
+                "activities": [
+                    "Tracing",
+                    "Drawing shapes",
+                    "Writing letters"
+                ]
+            },
+            {
+                "skill": "Following a Schedule",
+                "why_needed": "Schools run on schedules with bells and transitions",
+                "activities": [
+                    "Reading a schedule",
+                    "Using a planner",
+                    "Time practice"
+                ]
+            },
+            {
+                "skill": "Raising Hand",
+                "why_needed": "Classroom participation expectation",
+                "activities": [
+                    "Practice",
+                    "Role play",
+                    "Explicit teaching"
+                ]
+            },
+            {
+                "skill": "Taking Turns",
+                "why_needed": "Many activities require turn-taking",
+                "activities": [
+                    "Games",
+                    "Discussion protocols",
+                    "Partner work"
+                ]
+            },
+            {
+                "skill": "Using a Computer",
+                "why_needed": "Many assignments are digital",
+                "activities": [
+                    "Keyboarding",
+                    "Mouse skills",
+                    "Logging in"
+                ]
+            },
+            {
+                "skill": "Test Taking",
+                "why_needed": "Academic assessments are common",
+                "activities": [
+                    "Practice tests",
+                    "Test-taking strategies",
+                    "Reducing anxiety"
+                ]
+            }
+        ]
+    }
+}

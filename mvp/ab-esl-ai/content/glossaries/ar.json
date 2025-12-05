@@ -1,0 +1,106 @@
+{
+    "name": "Arabic-English Classroom Glossary",
+    "language_code": "ar",
+    "entries": [
+        {
+            "en": "open",
+            "ar": "افتح",
+            "definition": "to make accessible or remove a barrier"
+        },
+        {
+            "en": "close",
+            "ar": "أغلق",
+            "definition": "to shut or make inaccessible"
+        },
+        {
+            "en": "read",
+            "ar": "اقرأ",
+            "definition": "to look at and understand written words"
+        },
+        {
+            "en": "write",
+            "ar": "اكتب",
+            "definition": "to form letters or words on paper"
+        },
+        {
+            "en": "listen",
+            "ar": "استمع",
+            "definition": "to pay attention to sound"
+        },
+        {
+            "en": "book",
+            "ar": "كتاب",
+            "definition": "a set of printed pages bound together"
+        },
+        {
+            "en": "pencil",
+            "ar": "قلم رصاص",
+            "definition": "a writing instrument with graphite"
+        },
+        {
+            "en": "desk",
+            "ar": "مكتب",
+            "definition": "a table for work or study"
+        },
+        {
+            "en": "teacher",
+            "ar": "معلم",
+            "definition": "a person who instructs students"
+        },
+        {
+            "en": "student",
+            "ar": "طالب",
+            "definition": "a person who is learning"
+        },
+        {
+            "en": "homework",
+            "ar": "واجب منزلي",
+            "definition": "work assigned to be done outside of class"
+        },
+        {
+            "en": "question",
+            "ar": "سؤال",
+            "definition": "something asked to get information"
+        },
+        {
+            "en": "answer",
+            "ar": "جواب",
+            "definition": "a reply to a question"
+        },
+        {
+            "en": "page",
+            "ar": "صفحة",
+            "definition": "one side of a sheet of paper in a book"
+        },
+        {
+            "en": "chapter",
+            "ar": "فصل",
+            "definition": "a main division of a book"
+        },
+        {
+            "en": "sentence",
+            "ar": "جملة",
+            "definition": "a group of words that expresses a complete thought"
+        },
+        {
+            "en": "paragraph",
+            "ar": "فقرة",
+            "definition": "a group of sentences about one topic"
+        },
+        {
+            "en": "draw",
+            "ar": "ارسم",
+            "definition": "to make a picture with pencil or pen"
+        },
+        {
+            "en": "circle",
+            "ar": "دائرة",
+            "definition": "a round shape"
+        },
+        {
+            "en": "underline",
+            "ar": "ضع خطاً تحته",
+            "definition": "to draw a line under words"
+        }
+    ]
+}

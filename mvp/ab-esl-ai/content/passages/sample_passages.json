@@ -1,0 +1,484 @@
+{
+  "passages": [
+    {
+      "id": "water-cycle-gr3",
+      "title": "The Water Cycle",
+      "grade": "3",
+      "cefr": "A2",
+      "text": "Water moves in a cycle. The sun heats water in lakes and oceans. The water turns into vapor and rises into the sky. High in the sky, the vapor cools and forms clouds. When clouds get heavy, water falls as rain or snow. The water flows back to lakes and oceans. Then the cycle starts again.",
+      "word_count": 62,
+      "key_vocabulary": [
+        "cycle",
+        "vapor",
+        "clouds",
+        "rain",
+        "snow"
+      ]
+    },
+    {
+      "id": "plants-gr2",
+      "title": "How Plants Grow",
+      "grade": "2",
+      "cefr": "A1",
+      "text": "Plants need water and light to grow. They get water from the soil. They get light from the sun. Plants make their own food. This is called photosynthesis. Plants give us food and clean air.",
+      "word_count": 40,
+      "key_vocabulary": [
+        "plants",
+        "water",
+        "light",
+        "soil",
+        "photosynthesis"
+      ]
+    },
+    {
+      "id": "fractions-gr4",
+      "title": "Understanding Fractions",
+      "grade": "4",
+      "cefr": "A2",
+      "text": "A fraction shows part of a whole. The top number is the numerator. It tells how many parts you have. The bottom number is the denominator. It tells how many equal parts make the whole. For example, in the fraction one-half, the numerator is one and the denominator is two.",
+      "word_count": 55,
+      "key_vocabulary": [
+        "fraction",
+        "numerator",
+        "denominator",
+        "whole",
+        "equal"
+      ]
+    },
+    {
+      "id": "classroom-rules",
+      "title": "Our Classroom Rules",
+      "grade": "K-2",
+      "cefr": "A1",
+      "text": "We listen when the teacher talks. We raise our hand to speak. We are kind to our friends. We walk in the hallway. We keep our classroom clean. We try our best every day.",
+      "word_count": 36,
+      "key_vocabulary": [
+        "listen",
+        "raise",
+        "kind",
+        "walk",
+        "clean"
+      ]
+    },
+    {
+      "id": "my-family-k",
+      "title": "My Family",
+      "grade": "K-2",
+      "cefr": "A1",
+      "text": "I have a family. My mom helps me. My dad plays with me. I have a sister. She is fun. We live in a house. I love my family.",
+      "word_count": 32,
+      "key_vocabulary": [
+        "family",
+        "mom",
+        "dad",
+        "sister",
+        "house"
+      ]
+    },
+    {
+      "id": "going-to-school-gr1",
+      "title": "Going to School",
+      "grade": "1",
+      "cefr": "A1",
+      "text": "I wake up in the morning. I eat breakfast. I put on my backpack. I walk to school. My teacher says hello. I sit at my desk. I am ready to learn.",
+      "word_count": 35,
+      "key_vocabulary": [
+        "morning",
+        "breakfast",
+        "backpack",
+        "school",
+        "teacher"
+      ]
+    },
+    {
+      "id": "seasons-gr2",
+      "title": "The Four Seasons",
+      "grade": "2",
+      "cefr": "A1",
+      "text": "There are four seasons. Spring is warm. Flowers grow in spring. Summer is hot. We swim in summer. Fall is cool. Leaves change color. Winter is cold. Snow falls in winter.",
+      "word_count": 36,
+      "key_vocabulary": [
+        "seasons",
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ]
+    },
+    {
+      "id": "healthy-eating-gr3",
+      "title": "Eating Healthy Food",
+      "grade": "3",
+      "cefr": "A2",
+      "text": "Our body needs healthy food. Fruits and vegetables give us vitamins. Bread and rice give us energy. Milk makes our bones strong. Meat and beans help us grow. Drink lots of water every day. Eating healthy keeps us strong.",
+      "word_count": 44,
+      "key_vocabulary": [
+        "healthy",
+        "vitamins",
+        "energy",
+        "bones",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "community-helpers-gr2",
+      "title": "Community Helpers",
+      "grade": "2",
+      "cefr": "A1",
+      "text": "Many people help us every day. Doctors help us when we are sick. Teachers help us learn. Police officers keep us safe. Firefighters put out fires. Mail carriers bring us letters. We say thank you to helpers.",
+      "word_count": 42,
+      "key_vocabulary": [
+        "community",
+        "doctors",
+        "teachers",
+        "police",
+        "firefighters"
+      ]
+    },
+    {
+      "id": "solar-system-gr4",
+      "title": "Our Solar System",
+      "grade": "4",
+      "cefr": "A2",
+      "text": "The solar system has eight planets. The sun is at the center. Earth is the third planet from the sun. Earth has one moon. Mars is called the red planet. Jupiter is the biggest planet. Saturn has beautiful rings. Each planet moves around the sun.",
+      "word_count": 50,
+      "key_vocabulary": [
+        "solar system",
+        "planets",
+        "sun",
+        "moon",
+        "orbit"
+      ]
+    },
+    {
+      "id": "recycling-gr3",
+      "title": "Why We Recycle",
+      "grade": "3",
+      "cefr": "A2",
+      "text": "Recycling helps our planet. We put paper, plastic, and glass in special bins. These materials are made into new things. Recycling saves trees and water. It keeps our air clean. Everyone can recycle at home and school. Small actions make a big difference.",
+      "word_count": 47,
+      "key_vocabulary": [
+        "recycling",
+        "planet",
+        "materials",
+        "bins",
+        "environment"
+      ]
+    },
+    {
+      "id": "alberta-animals-gr3",
+      "title": "Animals of Alberta",
+      "grade": "3",
+      "cefr": "A2",
+      "text": "Alberta has many wild animals. Bears live in the mountains. Deer eat grass in the forests. Beavers build dams in rivers. Eagles fly high in the sky. Moose are very big animals. We must protect wildlife and their homes.",
+      "word_count": 43,
+      "key_vocabulary": [
+        "Alberta",
+        "wildlife",
+        "mountains",
+        "forests",
+        "protect"
+      ]
+    },
+    {
+      "id": "making-friends-gr1",
+      "title": "Making Friends",
+      "grade": "1",
+      "cefr": "A1",
+      "text": "I like to make friends. I say hi and smile. I share my toys. I listen when my friend talks. I play nice games. Good friends are kind. Good friends help each other.",
+      "word_count": 36,
+      "key_vocabulary": [
+        "friends",
+        "share",
+        "listen",
+        "play",
+        "kind"
+      ]
+    },
+    {
+      "id": "telling-time-gr2",
+      "title": "Telling Time",
+      "grade": "2",
+      "cefr": "A1",
+      "text": "A clock tells us the time. The short hand shows the hour. The long hand shows the minutes. When the long hand is on twelve, it is the start of a new hour. We use time to know when to eat, sleep, and go to school.",
+      "word_count": 50,
+      "key_vocabulary": [
+        "clock",
+        "time",
+        "hour",
+        "minutes",
+        "hand"
+      ]
+    },
+    {
+      "id": "maps-gr4",
+      "title": "Reading Maps",
+      "grade": "4",
+      "cefr": "A2",
+      "text": "Maps show us places on Earth. A compass rose shows north, south, east, and west. The legend explains the symbols. Blue usually means water. Green often means forests or parks. The scale shows how far places are from each other. Maps help us find our way.",
+      "word_count": 50,
+      "key_vocabulary": [
+        "maps",
+        "compass",
+        "legend",
+        "symbols",
+        "scale"
+      ]
+    },
+    {
+      "id": "simple-machines-gr5",
+      "title": "Simple Machines",
+      "grade": "5",
+      "cefr": "B1",
+      "text": "Simple machines make work easier. A lever helps lift heavy things. A ramp lets us push things up instead of lifting them. A wheel helps things roll smoothly. A pulley uses a rope to lift objects. These machines are all around us. They save us time and energy.",
+      "word_count": 52,
+      "key_vocabulary": [
+        "machines",
+        "lever",
+        "ramp",
+        "wheel",
+        "pulley"
+      ]
+    },
+    {
+      "id": "indigenous-peoples-gr4",
+      "title": "First Nations of Alberta",
+      "grade": "4",
+      "cefr": "A2",
+      "text": "First Nations people have lived in Alberta for thousands of years. They hunted bison on the prairies. They fished in the rivers and lakes. They made beautiful art and told important stories. Their culture teaches us to respect the land and all living things.",
+      "word_count": 48,
+      "key_vocabulary": [
+        "First Nations",
+        "culture",
+        "respect",
+        "land",
+        "traditions"
+      ]
+    },
+    {
+      "id": "weather-report-gr3",
+      "title": "Understanding Weather",
+      "grade": "3",
+      "cefr": "A2",
+      "text": "Weather changes every day. Temperature tells us how hot or cold it is. We measure temperature in degrees. Wind is moving air. Rain comes from clouds. Snow falls when it is very cold. Weather reports help us plan our day. We can dress right for the weather.",
+      "word_count": 50,
+      "key_vocabulary": [
+        "weather",
+        "temperature",
+        "degrees",
+        "wind",
+        "forecast"
+      ]
+    },
+    {
+      "id": "library-visit-gr2",
+      "title": "At the Library",
+      "grade": "2",
+      "cefr": "A1",
+      "text": "I love going to the library. The library has many books. I use a library card to borrow books. I must return books on time. The librarian helps me find books. I can read quietly at the library. Books take me on adventures.",
+      "word_count": 48,
+      "key_vocabulary": [
+        "library",
+        "books",
+        "borrow",
+        "return",
+        "librarian"
+      ]
+    },
+    {
+      "id": "electricity-gr5",
+      "title": "How Electricity Works",
+      "grade": "5",
+      "cefr": "B1",
+      "text": "Electricity powers many things in our homes. It flows through wires like water flows through pipes. A circuit is a path for electricity. If the circuit breaks, the power stops. Switches turn the flow on and off. We must be careful with electricity because it can be dangerous.",
+      "word_count": 52,
+      "key_vocabulary": [
+        "electricity",
+        "circuit",
+        "wires",
+        "switches",
+        "power"
+      ]
+    },
+    {
+      "id": "my-cat-k",
+      "title": "My Cat",
+      "grade": "K",
+      "cefr": "A1",
+      "text": "I have a cat. My cat is soft. My cat likes to nap. My cat can run fast. I love my cat.",
+      "word_count": 24,
+      "key_vocabulary": [
+        "cat",
+        "soft",
+        "nap",
+        "run",
+        "love"
+      ]
+    },
+    {
+      "id": "big-dog-k",
+      "title": "The Big Dog",
+      "grade": "K",
+      "cefr": "A1",
+      "text": "Sam has a big dog. The dog can run. The dog likes to sit. Sam and the dog play. The dog is fun.",
+      "word_count": 26,
+      "key_vocabulary": [
+        "dog",
+        "big",
+        "run",
+        "sit",
+        "play"
+      ]
+    },
+    {
+      "id": "at-the-park-gr1",
+      "title": "At the Park",
+      "grade": "1",
+      "cefr": "A1",
+      "text": "We go to the park. I see a slide. I go down the slide. I see swings. I swing high. Mom sits on a bench. The park is fun!",
+      "word_count": 32,
+      "key_vocabulary": [
+        "park",
+        "slide",
+        "swings",
+        "bench",
+        "fun"
+      ]
+    },
+    {
+      "id": "multiplication-gr4",
+      "title": "Learning to Multiply",
+      "grade": "4",
+      "cefr": "A2",
+      "text": "Multiplication is a fast way to add. Three times four means three groups of four. That equals twelve. We call three and four the factors. Twelve is the product. Knowing times tables helps us solve problems quickly. Practice makes perfect!",
+      "word_count": 43,
+      "key_vocabulary": [
+        "multiplication",
+        "factors",
+        "product",
+        "equals",
+        "times tables"
+      ]
+    },
+    {
+      "id": "gravity-gr5",
+      "title": "What is Gravity?",
+      "grade": "5",
+      "cefr": "B1",
+      "text": "Gravity is a force that pulls things down. It keeps us on the ground. Without gravity, we would float away! Gravity keeps the moon moving around Earth. It keeps Earth moving around the sun. The bigger an object, the stronger its gravity. That is why we stay on Earth.",
+      "word_count": 54,
+      "key_vocabulary": [
+        "gravity",
+        "force",
+        "pulls",
+        "float",
+        "orbit"
+      ]
+    },
+    {
+      "id": "breakfast-choices-gr1",
+      "title": "Breakfast Time",
+      "grade": "1",
+      "cefr": "A1",
+      "text": "It is morning. I am hungry. I eat cereal with milk. I drink orange juice. My toast is warm. I eat an apple too. Breakfast gives me energy. Now I am ready for school!",
+      "word_count": 38,
+      "key_vocabulary": [
+        "breakfast",
+        "cereal",
+        "milk",
+        "toast",
+        "energy"
+      ]
+    },
+    {
+      "id": "canada-geography-gr6",
+      "title": "Geography of Canada",
+      "grade": "6",
+      "cefr": "B1",
+      "text": "Canada is the second largest country in the world. It has ten provinces and three territories. Alberta is in western Canada. The Rocky Mountains are in Alberta and British Columbia. Canada has many lakes and rivers. The climate varies from very cold in the north to mild in the south.",
+      "word_count": 54,
+      "key_vocabulary": [
+        "geography",
+        "provinces",
+        "territories",
+        "climate",
+        "Rocky Mountains"
+      ]
+    },
+    {
+      "id": "bus-safety-gr2",
+      "title": "Riding the School Bus",
+      "grade": "2",
+      "cefr": "A1",
+      "text": "I ride the school bus. I wait at the bus stop. When the bus comes, I wait for it to stop. I walk up the steps carefully. I sit in my seat. I stay seated while the bus moves. I am safe on the bus.",
+      "word_count": 48,
+      "key_vocabulary": [
+        "bus",
+        "wait",
+        "stop",
+        "seat",
+        "safe"
+      ]
+    },
+    {
+      "id": "pet-hamster-gr2",
+      "title": "My Pet Hamster",
+      "grade": "2",
+      "cefr": "A1",
+      "text": "I have a pet hamster. His name is Fuzzy. Fuzzy lives in a cage. He has a wheel to run on. I give him food and water every day. Fuzzy is soft and small. I hold him gently. Fuzzy makes me happy.",
+      "word_count": 46,
+      "key_vocabulary": [
+        "hamster",
+        "pet",
+        "cage",
+        "wheel",
+        "gently"
+      ]
+    },
+    {
+      "id": "human-body-gr4",
+      "title": "The Human Body",
+      "grade": "4",
+      "cefr": "A2",
+      "text": "The human body is amazing. Our heart pumps blood to all parts of the body. Our lungs help us breathe. Our brain controls everything we do. Our bones give us shape and protect our organs. Muscles help us move. We must take care of our body.",
+      "word_count": 50,
+      "key_vocabulary": [
+        "body",
+        "heart",
+        "lungs",
+        "brain",
+        "muscles"
+      ]
+    },
+    {
+      "id": "water-safety-gr3",
+      "title": "Staying Safe in Water",
+      "grade": "3",
+      "cefr": "A2",
+      "text": "Swimming is fun but we must be safe. Always swim with an adult nearby. Never run near the pool. Learn to float and tread water. If you need help, wave your arms and call out. Wear a life jacket on boats. Water safety saves lives.",
+      "word_count": 48,
+      "key_vocabulary": [
+        "swimming",
+        "safety",
+        "float",
+        "life jacket",
+        "adult"
+      ]
+    },
+    {
+      "id": "feelings-gr1",
+      "title": "My Feelings",
+      "grade": "1",
+      "cefr": "A1",
+      "text": "I have many feelings. Sometimes I feel happy. I smile when I am happy. Sometimes I feel sad. It is okay to cry. Sometimes I feel angry. I take deep breaths. All feelings are okay. I can talk about my feelings.",
+      "word_count": 44,
+      "key_vocabulary": [
+        "feelings",
+        "happy",
+        "sad",
+        "angry",
+        "okay"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1825 @@
+{
+    "name": "L1 Linguistic Transfer Patterns for ESL Instruction",
+    "description": "Comprehensive database of language-specific transfer patterns, common errors, and targeted interventions for Alberta's top newcomer languages",
+    "version": "1.0.0",
+    "languages": {
+        "ar": {
+            "name": "Arabic",
+            "family": "Semitic",
+            "writing_system": "Arabic script (RTL)",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/p/",
+                        "issue": "Arabic lacks /p/; speakers substitute /b/",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "pin/bin",
+                            "pat/bat",
+                            "pill/bill",
+                            "cap/cab"
+                        ],
+                        "teaching_tip": "Show aspiration difference - hold paper in front of lips"
+                    },
+                    {
+                        "phoneme": "/v/",
+                        "issue": "Arabic lacks /v/; speakers substitute /f/ or /b/",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "van/fan",
+                            "vest/fest",
+                            "very/berry",
+                            "vine/fine"
+                        ],
+                        "teaching_tip": "Emphasize teeth-on-lip position for /v/"
+                    },
+                    {
+                        "phoneme": "/ŋ/",
+                        "issue": "Velar nasal only in some dialects",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "sing/sin",
+                            "ring/rin",
+                            "thing/thin"
+                        ],
+                        "teaching_tip": "Practice -ng endings; feel vibration in nose"
+                    },
+                    {
+                        "phoneme": "vowel_length",
+                        "issue": "English vowel length distinctions unfamiliar",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "sheep/ship",
+                            "leave/live",
+                            "beat/bit"
+                        ],
+                        "teaching_tip": "Exaggerate long vowels; use hand stretching gesture"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Arabic syllable structure is (C)V(C); clusters are difficult",
+                    "problematic_patterns": [
+                        "str-",
+                        "spr-",
+                        "scr-",
+                        "-cts",
+                        "-ngths"
+                    ],
+                    "epenthesis_risk": "Students may insert vowels: 'street' → 'istreet'",
+                    "teaching_tip": "Practice blending consonants slowly, then speed up"
+                }
+            },
+            "grammar": {
+                "articles": {
+                    "priority": "critical",
+                    "issue": "Arabic has definite 'al-' but no indefinite article; different usage rules",
+                    "common_errors": [
+                        "Omitting 'a/an': 'I have book'",
+                        "Overusing 'the': 'I like the soccer'",
+                        "Article with proper nouns: 'The Canada is cold'"
+                    ],
+                    "teaching_approach": "Decision tree: Is it specific? Is it countable? First mention or known?",
+                    "exercises": [
+                        "article_decision_tree",
+                        "definite_vs_zero"
+                    ]
+                },
+                "verb_be": {
+                    "priority": "high",
+                    "issue": "Arabic often omits 'be' in present tense (equational sentences)",
+                    "common_errors": [
+                        "'She teacher' (missing 'is')",
+                        "'The book new' (missing 'is')",
+                        "'They happy' (missing 'are')"
+                    ],
+                    "teaching_approach": "Emphasize: English ALWAYS needs 'is/are/am' even for descriptions",
+                    "exercises": [
+                        "be_verb_insertion",
+                        "description_practice"
+                    ]
+                },
+                "word_order": {
+                    "priority": "medium",
+                    "issue": "Arabic uses VSO in some contexts; adjectives follow nouns",
+                    "common_errors": [
+                        "'The car red' (adjective after noun)",
+                        "'In the school went I' (verb first)"
+                    ],
+                    "teaching_approach": "Practice SVO sentence building with visual support",
+                    "exercises": [
+                        "sentence_unscramble",
+                        "noun_phrase_building"
+                    ]
+                },
+                "pluralization": {
+                    "priority": "medium",
+                    "issue": "Arabic has complex plural system (sound plural, broken plural, dual)",
+                    "common_errors": [
+                        "Overgeneralizing -s: 'childrens', 'peoples'",
+                        "Dual interference: treating 'two' specially"
+                    ],
+                    "teaching_approach": "Focus on irregular plurals; practice counting exercises",
+                    "exercises": [
+                        "irregular_plural_drill",
+                        "countable_mass_nouns"
+                    ]
+                },
+                "pronouns": {
+                    "priority": "medium",
+                    "issue": "Gender markers different; Arabic uses pronoun suffixes",
+                    "common_errors": [
+                        "Pronoun-verb redundancy: 'My father he went'",
+                        "Gender confusion with 'it'"
+                    ],
+                    "teaching_approach": "Explicit pronoun substitution practice",
+                    "exercises": [
+                        "pronoun_substitution",
+                        "avoiding_repetition"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [
+                    {
+                        "en": "sugar",
+                        "ar": "sukkar",
+                        "note": "Common Arabic loanword"
+                    },
+                    {
+                        "en": "cotton",
+                        "ar": "qutn",
+                        "note": ""
+                    },
+                    {
+                        "en": "algebra",
+                        "ar": "al-jabr",
+                        "note": "Arabic origin"
+                    },
+                    {
+                        "en": "zero",
+                        "ar": "sifr",
+                        "note": "Arabic origin"
+                    }
+                ],
+                "false_friends": [],
+                "academic_vocabulary_gaps": [
+                    "Abstract nouns",
+                    "Academic verb phrases",
+                    "Discourse markers"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "RTL_to_LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Directionality confusion",
+                        "Book handling"
+                    ],
+                    "teaching_tip": "Explicit modeling of left-to-right reading; finger tracking"
+                },
+                "letter_formation": {
+                    "confusions": [
+                        "b/d reversal common",
+                        "p/q reversal"
+                    ]
+                }
+            },
+            "cultural_considerations": [
+                "Friday is the holy day (may miss school)",
+                "Ramadan fasting affects energy/concentration",
+                "Gender segregation norms in some families",
+                "Eye contact with elders may be avoided (respect)"
+            ],
+            "educational_background_notes": "Many Arabic-speaking refugees may have interrupted schooling"
+        },
+        "zh": {
+            "name": "Chinese (Mandarin)",
+            "family": "Sino-Tibetan",
+            "writing_system": "Logographic (characters)",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/r/",
+                        "issue": "Mandarin /r/ is retroflex; English /r/ is different",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "right/light",
+                            "red/led",
+                            "road/load"
+                        ],
+                        "teaching_tip": "Curl tongue back; lips slightly rounded"
+                    },
+                    {
+                        "phoneme": "/l/",
+                        "issue": "Final /l/ is especially difficult",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "ball/bar",
+                            "pull/purr",
+                            "fill/fear"
+                        ],
+                        "teaching_tip": "Touch tongue to roof of mouth at end"
+                    },
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Dental fricatives don't exist in Mandarin",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/sink",
+                            "that/dat",
+                            "three/tree"
+                        ],
+                        "teaching_tip": "Tongue between teeth; visual modeling essential"
+                    },
+                    {
+                        "phoneme": "/v/",
+                        "issue": "Not distinguished from /w/ in Mandarin",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "vine/wine",
+                            "vest/west",
+                            "vow/wow"
+                        ],
+                        "teaching_tip": "Teeth-on-lip for /v/; rounded lips only for /w/"
+                    },
+                    {
+                        "phoneme": "final_consonants",
+                        "issue": "Mandarin syllables end only in -n, -ng, or vowel",
+                        "priority": "critical",
+                        "examples": [
+                            "cat → 'ca'",
+                            "book → 'boo'",
+                            "desk → 'des'"
+                        ],
+                        "teaching_tip": "Emphasize and hold final consonants; exaggerate"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Mandarin has no consonant clusters; all CV syllables",
+                    "problematic_patterns": [
+                        "All initial clusters",
+                        "All final clusters"
+                    ],
+                    "epenthesis_risk": "Students may insert vowels: 'please' → 'puh-leez'",
+                    "teaching_tip": "Systematic cluster practice starting with 2-consonant blends"
+                },
+                "intonation": {
+                    "issue": "Mandarin is tonal; English uses intonation differently",
+                    "priority": "high",
+                    "common_errors": [
+                        "Flat intonation",
+                        "Inappropriate pitch shifts"
+                    ],
+                    "teaching_tip": "Practice sentence-level intonation patterns; yes/no vs. wh-questions"
+                }
+            },
+            "grammar": {
+                "articles": {
+                    "priority": "critical",
+                    "issue": "Chinese has no articles; uses demonstratives/classifiers instead",
+                    "common_errors": [
+                        "Omitting articles: 'I saw movie'",
+                        "Overusing 'the': 'I like the music'",
+                        "Random article insertion"
+                    ],
+                    "teaching_approach": "Explicit article rules; heavy practice with feedback",
+                    "exercises": [
+                        "article_cloze",
+                        "determine_article"
+                    ]
+                },
+                "verb_tense": {
+                    "priority": "critical",
+                    "issue": "Chinese verbs don't conjugate; tense shown by context/particles",
+                    "common_errors": [
+                        "Unmarked past: 'Yesterday I go'",
+                        "Missing -s: 'She walk to school'",
+                        "Tense inconsistency within paragraphs"
+                    ],
+                    "teaching_approach": "Timeline visualization; explicit tense marking practice",
+                    "exercises": [
+                        "tense_timeline",
+                        "verb_form_practice"
+                    ]
+                },
+                "pluralization": {
+                    "priority": "high",
+                    "issue": "Chinese nouns don't pluralize; context indicates number",
+                    "common_errors": [
+                        "Missing plural -s: 'three book'",
+                        "With numbers: 'five student'"
+                    ],
+                    "teaching_approach": "Number + plural noun drilling",
+                    "exercises": [
+                        "counting_practice",
+                        "plural_rules"
+                    ]
+                },
+                "subject_pronoun": {
+                    "priority": "medium",
+                    "issue": "Chinese allows subject dropping when clear from context",
+                    "common_errors": [
+                        "'Is good' (missing 'It')",
+                        "'Want to go' (missing 'I')"
+                    ],
+                    "teaching_approach": "English requires explicit subjects always",
+                    "exercises": [
+                        "add_subject",
+                        "sentence_completion"
+                    ]
+                },
+                "prepositions": {
+                    "priority": "high",
+                    "issue": "Chinese prepositions work differently; many are verb-like",
+                    "common_errors": [
+                        "'in Monday' vs 'on Monday'",
+                        "'in the night' vs 'at night'",
+                        "Preposition omission"
+                    ],
+                    "teaching_approach": "Memorize common combinations; visualization",
+                    "exercises": [
+                        "preposition_collocations",
+                        "time_prepositions"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [],
+                "false_friends": [],
+                "academic_vocabulary_gaps": [
+                    "Multi-meaning words",
+                    "Phrasal verbs",
+                    "Idiomatic expressions"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "various_to_LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Character vs. alphabet adjustment",
+                        "Phoneme awareness"
+                    ],
+                    "teaching_tip": "Explicit phonics instruction; characters are meaning-based, letters are sound-based"
+                },
+                "phonemic_awareness": {
+                    "critical_gap": true,
+                    "issue": "Chinese readers may lack phoneme-level awareness",
+                    "teaching_tip": "Extensive phonemic awareness instruction; may need to start with basics even for older students"
+                }
+            },
+            "cultural_considerations": [
+                "Lunar New Year (late Jan/Feb) - important holiday",
+                "May be hesitant to ask questions (avoid appearing ignorant)",
+                "Respect for teacher authority",
+                "Competition and achievement highly valued"
+            ],
+            "educational_background_notes": "Strong literacy in L1; can leverage analytical skills"
+        },
+        "es": {
+            "name": "Spanish",
+            "family": "Romance",
+            "writing_system": "Latin alphabet",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/b/ vs /v/",
+                        "issue": "Spanish doesn't distinguish these sounds",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "boat/vote",
+                            "berry/very",
+                            "ban/van",
+                            "best/vest"
+                        ],
+                        "teaching_tip": "Teeth on lower lip for /v/; lips together for /b/"
+                    },
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Not in most Latin American Spanish varieties",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/tink",
+                            "this/dis",
+                            "bath/bat"
+                        ],
+                        "teaching_tip": "Tongue between teeth; model visually"
+                    },
+                    {
+                        "phoneme": "/ʃ/ vs /tʃ/",
+                        "issue": "Spanish 'ch' is only affricate; /ʃ/ alone is difficult",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "ship/chip",
+                            "shore/chore",
+                            "wash/watch"
+                        ],
+                        "teaching_tip": "Friction vs. stop-friction contrast"
+                    },
+                    {
+                        "phoneme": "/dʒ/ vs /j/",
+                        "issue": "Spanish 'y' and 'j' sounds different",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "joke/yoke",
+                            "jam/yam",
+                            "jello/yellow"
+                        ],
+                        "teaching_tip": "Harder contact for /dʒ/"
+                    },
+                    {
+                        "phoneme": "/ɪ/ vs /i:/",
+                        "issue": "Spanish has only one 'i' sound",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "ship/sheep",
+                            "bit/beat",
+                            "fill/feel"
+                        ],
+                        "teaching_tip": "Lax vs. tense vowel; use mirror for mouth position"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Spanish has fewer initial clusters; /s/ + consonant gets prothetic vowel",
+                    "problematic_patterns": [
+                        "st-",
+                        "sp-",
+                        "sk-",
+                        "sn-",
+                        "sl-"
+                    ],
+                    "epenthesis_risk": "Students may add vowel: 'school' → 'eschool'",
+                    "teaching_tip": "Practice holding /s/ without vowel; stretch it out"
+                }
+            },
+            "grammar": {
+                "articles": {
+                    "priority": "medium",
+                    "issue": "Spanish has articles but usage differs",
+                    "common_errors": [
+                        "'The life is beautiful' (generic nouns)",
+                        "Article with languages: 'I speak the Spanish'"
+                    ],
+                    "teaching_approach": "Compare where article is/isn't used",
+                    "exercises": [
+                        "generic_nouns",
+                        "comparing_articles"
+                    ]
+                },
+                "verb_tense": {
+                    "priority": "medium",
+                    "issue": "Spanish has similar tenses but some differences",
+                    "common_errors": [
+                        "Present perfect vs. simple past confusion",
+                        "Progressive overuse: 'I am having a car'"
+                    ],
+                    "teaching_approach": "Contrastive analysis of tense usage",
+                    "exercises": [
+                        "past_vs_present_perfect",
+                        "state_vs_action"
+                    ]
+                },
+                "adjective_position": {
+                    "priority": "medium",
+                    "issue": "Spanish adjectives typically follow nouns",
+                    "common_errors": [
+                        "'The house blue' instead of 'The blue house'"
+                    ],
+                    "teaching_approach": "Noun phrase ordering practice",
+                    "exercises": [
+                        "adjective_ordering",
+                        "descriptive_writing"
+                    ]
+                },
+                "subject_pronouns": {
+                    "priority": "medium",
+                    "issue": "Spanish is pro-drop; subjects often omitted",
+                    "common_errors": [
+                        "'Is raining' (missing 'It')",
+                        "'Want coffee?' (missing 'Do you')"
+                    ],
+                    "teaching_approach": "English requires subject; practice dummy subjects",
+                    "exercises": [
+                        "add_subject",
+                        "it_there_practice"
+                    ]
+                },
+                "negation": {
+                    "priority": "low",
+                    "issue": "Spanish uses double negatives; English doesn't",
+                    "common_errors": [
+                        "'I don't have nothing'"
+                    ],
+                    "teaching_approach": "Explain single negation rule",
+                    "exercises": [
+                        "negation_practice"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [
+                    {
+                        "en": "family",
+                        "es": "familia"
+                    },
+                    {
+                        "en": "important",
+                        "es": "importante"
+                    },
+                    {
+                        "en": "hospital",
+                        "es": "hospital"
+                    },
+                    {
+                        "en": "university",
+                        "es": "universidad"
+                    },
+                    {
+                        "en": "nation",
+                        "es": "nación"
+                    },
+                    {
+                        "en": "history",
+                        "es": "historia"
+                    },
+                    {
+                        "en": "geography",
+                        "es": "geografía"
+                    },
+                    {
+                        "en": "music",
+                        "es": "música"
+                    },
+                    {
+                        "en": "telephone",
+                        "es": "teléfono"
+                    },
+                    {
+                        "en": "animal",
+                        "es": "animal"
+                    }
+                ],
+                "false_friends": [
+                    {
+                        "en": "actually",
+                        "es": "actualmente",
+                        "means": "currently"
+                    },
+                    {
+                        "en": "embarrassed",
+                        "es": "embarazada",
+                        "means": "pregnant"
+                    },
+                    {
+                        "en": "exit",
+                        "es": "éxito",
+                        "means": "success"
+                    },
+                    {
+                        "en": "library",
+                        "es": "librería",
+                        "means": "bookstore"
+                    },
+                    {
+                        "en": "carpet",
+                        "es": "carpeta",
+                        "means": "folder"
+                    },
+                    {
+                        "en": "sensible",
+                        "es": "sensible",
+                        "means": "sensitive"
+                    }
+                ],
+                "cognate_strategy": "HIGH - leverage Romance cognates for academic vocabulary"
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Minimal - same alphabet"
+                    ],
+                    "teaching_tip": "Can focus on phonics differences rather than print concepts"
+                },
+                "phonemic_awareness": {
+                    "strength": true,
+                    "note": "Spanish is phonetically regular; strong sound-symbol awareness transfers"
+                }
+            },
+            "cultural_considerations": [
+                "Family involvement in education valued",
+                "May have different expectations about homework/independence",
+                "Religious holidays (Catholic) may affect attendance",
+                "Respect for authority figures"
+            ],
+            "educational_background_notes": "Often strong literacy foundation; easier transfer than non-alphabetic L1s"
+        },
+        "pa": {
+            "name": "Punjabi",
+            "family": "Indo-Aryan",
+            "writing_system": "Gurmukhi script",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Dental fricatives not in Punjabi",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/tink",
+                            "this/dis",
+                            "three/tree"
+                        ],
+                        "teaching_tip": "Tongue between teeth; visual modeling"
+                    },
+                    {
+                        "phoneme": "/v/",
+                        "issue": "May substitute /w/",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "vine/wine",
+                            "vest/west",
+                            "very/wary"
+                        ],
+                        "teaching_tip": "Upper teeth on lower lip for /v/"
+                    },
+                    {
+                        "phoneme": "vowel_distinctions",
+                        "issue": "Some English vowel pairs are difficult",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "cat/cut",
+                            "bad/bed"
+                        ],
+                        "teaching_tip": "Minimal pair practice with visual support"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Clusters exist but may differ from English patterns",
+                    "teaching_tip": "Generally manageable with practice"
+                }
+            },
+            "grammar": {
+                "word_order": {
+                    "priority": "high",
+                    "issue": "Punjabi is SOV (Subject-Object-Verb); English is SVO",
+                    "common_errors": [
+                        "'I apple eat' instead of 'I eat apple'",
+                        "Verb at end of sentence"
+                    ],
+                    "teaching_approach": "Explicit SVO pattern practice",
+                    "exercises": [
+                        "sentence_unscramble",
+                        "word_order_drill"
+                    ]
+                },
+                "articles": {
+                    "priority": "high",
+                    "issue": "Punjabi has no articles",
+                    "common_errors": [
+                        "Missing articles: 'I have cat'",
+                        "Inconsistent article use"
+                    ],
+                    "teaching_approach": "Systematic article instruction",
+                    "exercises": [
+                        "article_decision_tree"
+                    ]
+                },
+                "prepositions": {
+                    "priority": "medium",
+                    "issue": "Postpositions in Punjabi vs. prepositions in English",
+                    "common_errors": [
+                        "Preposition placement errors",
+                        "'School to go' pattern"
+                    ],
+                    "teaching_approach": "Practice preposition + noun chunks",
+                    "exercises": [
+                        "preposition_collocations"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [],
+                "academic_vocabulary_gaps": [
+                    "Academic English",
+                    "Abstract concepts"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Different script; needs alphabet instruction"
+                    ],
+                    "teaching_tip": "Strong phonemic awareness often present; focus on letter-sound mapping"
+                }
+            },
+            "cultural_considerations": [
+                "Sikh religious observances (turban, uncut hair)",
+                "Vaisakhi (April) - major celebration",
+                "Large Punjabi community in Alberta (Calgary, Edmonton)",
+                "Strong family and community ties"
+            ],
+            "educational_background_notes": "Often strong math foundation; English as L2 instruction common in Punjab"
+        },
+        "tl": {
+            "name": "Tagalog/Filipino",
+            "family": "Austronesian",
+            "writing_system": "Latin alphabet",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Not in Tagalog; may substitute /t/ /d/",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/tink",
+                            "three/tree",
+                            "this/dis"
+                        ],
+                        "teaching_tip": "Tongue between teeth practice"
+                    },
+                    {
+                        "phoneme": "/f/ vs /p/",
+                        "issue": "Tagalog has /p/ but not /f/",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "fan/pan",
+                            "foot/put",
+                            "feel/peel"
+                        ],
+                        "teaching_tip": "Air flow through lips for /f/"
+                    },
+                    {
+                        "phoneme": "/v/",
+                        "issue": "Not in Tagalog; substitutes /b/",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "very/berry",
+                            "vine/bine"
+                        ],
+                        "teaching_tip": "Teeth on lip for /v/"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Limited clusters in Tagalog",
+                    "teaching_tip": "Practice common English clusters"
+                }
+            },
+            "grammar": {
+                "verb_system": {
+                    "priority": "high",
+                    "issue": "Tagalog verbs focus on aspect (completed/not) rather than tense",
+                    "common_errors": [
+                        "Tense confusion: mixing past/present",
+                        "'Already I finish' (aspect influence)"
+                    ],
+                    "teaching_approach": "Timeline-based tense instruction",
+                    "exercises": [
+                        "tense_timeline",
+                        "verb_conjugation"
+                    ]
+                },
+                "subject_verb_agreement": {
+                    "priority": "medium",
+                    "issue": "Tagalog word order is verb-first; different agreement",
+                    "common_errors": [
+                        "'The students is happy'",
+                        "Agreement errors with collective nouns"
+                    ],
+                    "teaching_approach": "Subject-verb matching practice",
+                    "exercises": [
+                        "agreement_practice"
+                    ]
+                },
+                "pronouns": {
+                    "priority": "medium",
+                    "issue": "Tagalog pronouns don't mark gender",
+                    "common_errors": [
+                        "He/she confusion"
+                    ],
+                    "teaching_approach": "Explicit gender pronoun practice",
+                    "exercises": [
+                        "pronoun_gender"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [
+                    {
+                        "en": "telephone",
+                        "tl": "telepono"
+                    },
+                    {
+                        "en": "computer",
+                        "tl": "kompyuter"
+                    },
+                    {
+                        "en": "family",
+                        "tl": "pamilya"
+                    }
+                ],
+                "academic_vocabulary_gaps": [
+                    "Academic register",
+                    "Formal English"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Same alphabet - minimal"
+                    ],
+                    "teaching_tip": "Focus on phonics differences"
+                }
+            },
+            "cultural_considerations": [
+                "Large Filipino community in Alberta (healthcare, services)",
+                "Strong family values; extended family involvement",
+                "Catholic traditions",
+                "Respectful communication style (po, opo honorifics)"
+            ],
+            "educational_background_notes": "English is official L2 in Philippines; students may have English exposure but with different variety"
+        },
+        "ko": {
+            "name": "Korean",
+            "family": "Koreanic (isolate)",
+            "writing_system": "Hangul (alphabetic syllabary)",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/r/ vs /l/",
+                        "issue": "Korean has one liquid phoneme; difficult to distinguish",
+                        "priority": "critical",
+                        "minimal_pairs": [
+                            "right/light",
+                            "road/load",
+                            "rake/lake",
+                            "wrong/long"
+                        ],
+                        "teaching_tip": "Touch tongue tip to roof for /l/; curl tongue back for /r/"
+                    },
+                    {
+                        "phoneme": "/f/",
+                        "issue": "Not in Korean; may substitute /p/",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "fan/pan",
+                            "fair/pair",
+                            "fine/pine"
+                        ],
+                        "teaching_tip": "Air through teeth-on-lip"
+                    },
+                    {
+                        "phoneme": "/v/",
+                        "issue": "Not in Korean; may substitute /b/",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "vine/bine",
+                            "very/berry",
+                            "vest/best"
+                        ],
+                        "teaching_tip": "Teeth on lower lip"
+                    },
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Dental fricatives absent",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/sink",
+                            "three/tree"
+                        ],
+                        "teaching_tip": "Tongue between teeth"
+                    },
+                    {
+                        "phoneme": "/z/",
+                        "issue": "Not phonemic in Korean",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "zoo/sue",
+                            "zip/sip"
+                        ],
+                        "teaching_tip": "Voiced version of /s/"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Korean syllables are (C)V(C); no clusters",
+                    "teaching_tip": "Similar to Chinese; systematic cluster practice needed"
+                }
+            },
+            "grammar": {
+                "word_order": {
+                    "priority": "high",
+                    "issue": "Korean is SOV; verb at end",
+                    "common_errors": [
+                        "'I pizza like' instead of 'I like pizza'",
+                        "Verb placement"
+                    ],
+                    "teaching_approach": "SVO pattern drilling",
+                    "exercises": [
+                        "word_order_practice"
+                    ]
+                },
+                "articles": {
+                    "priority": "critical",
+                    "issue": "Korean has no articles",
+                    "common_errors": [
+                        "Omitting a/an/the",
+                        "Random insertion"
+                    ],
+                    "teaching_approach": "Systematic article rules",
+                    "exercises": [
+                        "article_decision_tree"
+                    ]
+                },
+                "relative_clauses": {
+                    "priority": "medium",
+                    "issue": "Korean relative clauses precede the noun (prenominal)",
+                    "common_errors": [
+                        "Difficulty with post-noun relative clauses"
+                    ],
+                    "teaching_approach": "Sentence combining with 'who/that/which'",
+                    "exercises": [
+                        "relative_clause_building"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [],
+                "academic_vocabulary_gaps": [
+                    "English academic vocabulary",
+                    "Phrasal verbs"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR (modern) or vertical",
+                "print_concepts": {
+                    "issues": [
+                        "Hangul is alphabetic; good phonemic awareness"
+                    ],
+                    "teaching_tip": "Phonemic awareness transfers well; focus on phonics"
+                }
+            },
+            "cultural_considerations": [
+                "Education highly valued",
+                "May have high parental expectations",
+                "Confucian respect for teachers",
+                "Lunar New Year celebrations"
+            ],
+            "educational_background_notes": "Often strong academic foundation; English studied in Korea but speaking often weak"
+        },
+        "uk": {
+            "name": "Ukrainian",
+            "family": "Slavic",
+            "writing_system": "Cyrillic",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Not in Ukrainian",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/sink",
+                            "three/tree",
+                            "this/dis"
+                        ],
+                        "teaching_tip": "Tongue between teeth"
+                    },
+                    {
+                        "phoneme": "/w/",
+                        "issue": "May substitute /v/",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "west/vest",
+                            "wine/vine",
+                            "wet/vet"
+                        ],
+                        "teaching_tip": "Rounded lips, no teeth contact"
+                    },
+                    {
+                        "phoneme": "/æ/",
+                        "issue": "This vowel doesn't exist in Ukrainian",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "cat/cut",
+                            "bad/bed"
+                        ],
+                        "teaching_tip": "Low front vowel; mouth open wide"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Ukrainian has clusters; generally manageable",
+                    "teaching_tip": "Focus on English-specific patterns"
+                }
+            },
+            "grammar": {
+                "articles": {
+                    "priority": "critical",
+                    "issue": "Ukrainian has no articles",
+                    "common_errors": [
+                        "Omitting articles throughout",
+                        "Article placement errors"
+                    ],
+                    "teaching_approach": "Systematic article instruction",
+                    "exercises": [
+                        "article_practice"
+                    ]
+                },
+                "verb_tense": {
+                    "priority": "medium",
+                    "issue": "Aspect (perfective/imperfective) differs from English tense",
+                    "common_errors": [
+                        "Aspect/tense confusion",
+                        "Progressive overuse or underuse"
+                    ],
+                    "teaching_approach": "Tense timeline; compare to aspect",
+                    "exercises": [
+                        "tense_vs_aspect"
+                    ]
+                },
+                "pronouns": {
+                    "priority": "low",
+                    "issue": "Ukrainian has grammatical gender",
+                    "common_errors": [
+                        "Minor pronoun issues"
+                    ],
+                    "teaching_approach": "Natural gender (English) vs. grammatical",
+                    "exercises": [
+                        "pronoun_practice"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [
+                    {
+                        "en": "telephone",
+                        "uk": "телефон"
+                    },
+                    {
+                        "en": "computer",
+                        "uk": "комп'ютер"
+                    },
+                    {
+                        "en": "student",
+                        "uk": "студент"
+                    }
+                ],
+                "academic_vocabulary_gaps": [
+                    "Academic English",
+                    "Subject-specific vocabulary"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Cyrillic to Latin alphabet transition"
+                    ],
+                    "teaching_tip": "Explicit letter correspondence; beware false friends (H, P, C look different)"
+                },
+                "alphabet_confusion": {
+                    "issues": [
+                        "Cyrillic H = English N",
+                        "Cyrillic P = English R",
+                        "Cyrillic C = English S"
+                    ],
+                    "teaching_tip": "Explicit teaching of letter-sound correspondences"
+                }
+            },
+            "cultural_considerations": [
+                "Recent refugee population in Alberta",
+                "May have trauma background",
+                "Orthodox Christian holidays",
+                "Strong education tradition"
+            ],
+            "educational_background_notes": "Recent arrivals may have interrupted schooling due to war; trauma-informed approach needed"
+        },
+        "so": {
+            "name": "Somali",
+            "family": "Afroasiatic (Cushitic)",
+            "writing_system": "Latin alphabet (since 1972)",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/p/",
+                        "issue": "Not in Somali; may substitute /b/",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "pin/bin",
+                            "pat/bat",
+                            "pop/bob"
+                        ],
+                        "teaching_tip": "Aspiration with paper; puff of air"
+                    },
+                    {
+                        "phoneme": "/v/",
+                        "issue": "Not in Somali",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "van/ban",
+                            "vest/best"
+                        ],
+                        "teaching_tip": "Teeth on lip"
+                    },
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Dental fricatives absent",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/tink",
+                            "this/dis"
+                        ],
+                        "teaching_tip": "Tongue between teeth"
+                    },
+                    {
+                        "phoneme": "/z/",
+                        "issue": "Not phonemic in Somali",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "zoo/sue",
+                            "zip/sip"
+                        ],
+                        "teaching_tip": "Voiced /s/"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Somali has limited clusters",
+                    "teaching_tip": "Practice common English clusters"
+                }
+            },
+            "grammar": {
+                "word_order": {
+                    "priority": "high",
+                    "issue": "Somali is SOV",
+                    "common_errors": [
+                        "Verb at sentence end"
+                    ],
+                    "teaching_approach": "SVO practice",
+                    "exercises": [
+                        "word_order_practice"
+                    ]
+                },
+                "articles": {
+                    "priority": "high",
+                    "issue": "Somali uses suffixed articles (postposed)",
+                    "common_errors": [
+                        "Article placement issues",
+                        "Article omission"
+                    ],
+                    "teaching_approach": "Pre-noun article practice",
+                    "exercises": [
+                        "article_placement"
+                    ]
+                },
+                "verb_system": {
+                    "priority": "medium",
+                    "issue": "Different tense/aspect marking",
+                    "common_errors": [
+                        "Tense marking errors"
+                    ],
+                    "teaching_approach": "Explicit tense instruction",
+                    "exercises": [
+                        "tense_practice"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [],
+                "academic_vocabulary_gaps": [
+                    "Academic English",
+                    "Abstract concepts"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Latin alphabet used; but may have limited L1 literacy"
+                    ],
+                    "teaching_tip": "Check L1 literacy level; some may need basic print concepts"
+                },
+                "variable_literacy": {
+                    "note": "Written Somali is recent (1972); older parents may be non-literate",
+                    "teaching_tip": "Don't assume L1 literacy; assess individually"
+                }
+            },
+            "cultural_considerations": [
+                "Large Somali community in Alberta (Edmonton, Calgary)",
+                "Islamic practices (prayer times, Ramadan, halal food)",
+                "May have refugee/trauma background",
+                "Oral tradition strong; storytelling valued",
+                "Extended family and clan important"
+            ],
+            "educational_background_notes": "Many students may be SLIFE due to conflict; assess carefully and provide foundational support"
+        },
+        "vi": {
+            "name": "Vietnamese",
+            "family": "Austroasiatic",
+            "writing_system": "Latin alphabet with diacritics",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "final_consonants",
+                        "issue": "Vietnamese has limited final consonants; many become glottal or nasal",
+                        "priority": "critical",
+                        "examples": [
+                            "cat → 'ca'",
+                            "dog → 'do'",
+                            "job → 'jo'"
+                        ],
+                        "teaching_tip": "Emphasize and hold final consonants"
+                    },
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Not in Vietnamese",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/tink",
+                            "three/tree"
+                        ],
+                        "teaching_tip": "Tongue between teeth"
+                    },
+                    {
+                        "phoneme": "/r/",
+                        "issue": "Vietnamese /r/ is different (may be fricative)",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "right/light"
+                        ],
+                        "teaching_tip": "Tongue position for English /r/"
+                    },
+                    {
+                        "phoneme": "consonant_clusters",
+                        "issue": "Vietnamese syllables are (C)V(C); no clusters",
+                        "priority": "critical",
+                        "examples": [
+                            "street → 'sa-treet'",
+                            "play → 'pa-lay'"
+                        ],
+                        "teaching_tip": "Systematic cluster practice"
+                    }
+                ]
+            },
+            "grammar": {
+                "verb_tense": {
+                    "priority": "critical",
+                    "issue": "Vietnamese has no verb conjugation; uses time words/particles",
+                    "common_errors": [
+                        "Unmarked verbs: 'Yesterday I go'",
+                        "Missing -s: 'She walk'"
+                    ],
+                    "teaching_approach": "Explicit tense marking; timeline visualization",
+                    "exercises": [
+                        "tense_timeline"
+                    ]
+                },
+                "articles": {
+                    "priority": "critical",
+                    "issue": "No articles in Vietnamese; uses classifiers",
+                    "common_errors": [
+                        "Article omission",
+                        "Classifier substitution"
+                    ],
+                    "teaching_approach": "Systematic article rules",
+                    "exercises": [
+                        "article_practice"
+                    ]
+                },
+                "pluralization": {
+                    "priority": "high",
+                    "issue": "Vietnamese nouns don't pluralize",
+                    "common_errors": [
+                        "'Three book' instead of 'three books'"
+                    ],
+                    "teaching_approach": "Number + plural drilling",
+                    "exercises": [
+                        "plural_practice"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [],
+                "academic_vocabulary_gaps": [
+                    "Academic vocabulary",
+                    "Abstract terms"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Same alphabet but very different letter-sound mappings"
+                    ],
+                    "teaching_tip": "Letter sounds are different in Vietnamese; explicit phonics needed"
+                }
+            },
+            "cultural_considerations": [
+                "Lunar New Year (Tet) - major celebration",
+                "Buddhist practices in many families",
+                "Respect for elders and teachers",
+                "May be hesitant to ask questions"
+            ],
+            "educational_background_notes": "Often strong education foundation; phonics transition is key focus"
+        },
+        "fa": {
+            "name": "Farsi/Persian/Dari",
+            "family": "Indo-Iranian",
+            "writing_system": "Perso-Arabic script (RTL)",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Not in Farsi",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/sink",
+                            "three/tree"
+                        ],
+                        "teaching_tip": "Tongue between teeth"
+                    },
+                    {
+                        "phoneme": "/w/",
+                        "issue": "May confuse with /v/",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "wine/vine",
+                            "west/vest"
+                        ],
+                        "teaching_tip": "Rounded lips for /w/; teeth-lip for /v/"
+                    },
+                    {
+                        "phoneme": "vowel_length",
+                        "issue": "Different vowel system",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "sheep/ship",
+                            "leave/live"
+                        ],
+                        "teaching_tip": "Practice tense/lax vowel distinctions"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Farsi has clusters but some differ from English",
+                    "teaching_tip": "Practice English-specific patterns"
+                }
+            },
+            "grammar": {
+                "word_order": {
+                    "priority": "high",
+                    "issue": "Farsi is SOV",
+                    "common_errors": [
+                        "Verb at end: 'I apple eat'"
+                    ],
+                    "teaching_approach": "SVO practice",
+                    "exercises": [
+                        "word_order_practice"
+                    ]
+                },
+                "articles": {
+                    "priority": "high",
+                    "issue": "Farsi has indefinite suffix but no definite article",
+                    "common_errors": [
+                        "Article usage errors"
+                    ],
+                    "teaching_approach": "Systematic article rules",
+                    "exercises": [
+                        "article_practice"
+                    ]
+                },
+                "prepositions": {
+                    "priority": "medium",
+                    "issue": "Different preposition system",
+                    "common_errors": [
+                        "Preposition selection errors"
+                    ],
+                    "teaching_approach": "Collocation practice",
+                    "exercises": [
+                        "preposition_collocations"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [
+                    {
+                        "en": "paradise",
+                        "fa": "pardis"
+                    },
+                    {
+                        "en": "bazaar",
+                        "fa": "bazar"
+                    },
+                    {
+                        "en": "caravan",
+                        "fa": "karavan"
+                    }
+                ],
+                "academic_vocabulary_gaps": [
+                    "Academic English",
+                    "Technical vocabulary"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "RTL_to_LTR",
+                "print_concepts": {
+                    "issues": [
+                        "RTL to LTR transition",
+                        "Different script"
+                    ],
+                    "teaching_tip": "Explicit directionality instruction"
+                }
+            },
+            "cultural_considerations": [
+                "Nowruz (Persian New Year, March)",
+                "May be refugees from Afghanistan (Dari speakers)",
+                "Education highly valued",
+                "Islamic practices"
+            ],
+            "educational_background_notes": "Afghan refugees may have interrupted schooling; Iranian students often well-educated"
+        },
+        "hi": {
+            "name": "Hindi",
+            "family": "Indo-Aryan",
+            "writing_system": "Devanagari script",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Not in Hindi",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/tink",
+                            "this/dis"
+                        ],
+                        "teaching_tip": "Tongue between teeth"
+                    },
+                    {
+                        "phoneme": "/æ/",
+                        "issue": "This vowel doesn't exist in Hindi",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "cat/cut",
+                            "bad/bed"
+                        ],
+                        "teaching_tip": "Low front vowel practice"
+                    },
+                    {
+                        "phoneme": "/w/ vs /v/",
+                        "issue": "May be merged",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "wine/vine",
+                            "west/vest"
+                        ],
+                        "teaching_tip": "Lip position contrast"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "Hindi has consonant clusters",
+                    "teaching_tip": "Focus on English-specific patterns"
+                }
+            },
+            "grammar": {
+                "word_order": {
+                    "priority": "high",
+                    "issue": "Hindi is SOV",
+                    "common_errors": [
+                        "Verb at sentence end"
+                    ],
+                    "teaching_approach": "SVO drilling",
+                    "exercises": [
+                        "word_order_practice"
+                    ]
+                },
+                "articles": {
+                    "priority": "high",
+                    "issue": "Hindi has no articles",
+                    "common_errors": [
+                        "Article omission"
+                    ],
+                    "teaching_approach": "Systematic article instruction",
+                    "exercises": [
+                        "article_practice"
+                    ]
+                },
+                "postpositions": {
+                    "priority": "medium",
+                    "issue": "Hindi uses postpositions; English uses prepositions",
+                    "common_errors": [
+                        "'School to I go' pattern"
+                    ],
+                    "teaching_approach": "Preposition placement practice",
+                    "exercises": [
+                        "preposition_placement"
+                    ]
+                }
+            },
+            "vocabulary": {
+                "cognates": [
+                    {
+                        "en": "jungle",
+                        "hi": "jangal"
+                    },
+                    {
+                        "en": "karma",
+                        "hi": "karma"
+                    },
+                    {
+                        "en": "yoga",
+                        "hi": "yoga"
+                    }
+                ],
+                "academic_vocabulary_gaps": [
+                    "Academic English",
+                    "Technical vocabulary"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Different script (Devanagari)"
+                    ],
+                    "teaching_tip": "Explicit letter-sound instruction"
+                }
+            },
+            "cultural_considerations": [
+                "Hindu festivals (Diwali, Holi)",
+                "Vegetarianism common",
+                "Extended family involvement",
+                "Education highly valued"
+            ],
+            "educational_background_notes": "English often taught as L2 in India; may have foundation but with Indian English variety"
+        },
+        "ur": {
+            "name": "Urdu",
+            "family": "Indo-Aryan",
+            "writing_system": "Perso-Arabic script (RTL)",
+            "phonology": {
+                "note": "Very similar to Hindi phonology",
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Not in Urdu",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/tink",
+                            "three/tree"
+                        ],
+                        "teaching_tip": "Tongue between teeth"
+                    }
+                ]
+            },
+            "grammar": {
+                "note": "Grammar very similar to Hindi",
+                "word_order": {
+                    "priority": "high",
+                    "issue": "Urdu is SOV",
+                    "common_errors": [
+                        "Verb at end"
+                    ],
+                    "teaching_approach": "SVO practice",
+                    "exercises": [
+                        "word_order_practice"
+                    ]
+                },
+                "articles": {
+                    "priority": "high",
+                    "issue": "No articles in Urdu",
+                    "teaching_approach": "Systematic instruction"
+                }
+            },
+            "vocabulary": {
+                "cognates": [],
+                "academic_vocabulary_gaps": [
+                    "Academic English"
+                ]
+            },
+            "literacy_transfer": {
+                "script_direction": "RTL_to_LTR",
+                "print_concepts": {
+                    "issues": [
+                        "RTL script; directionality transition"
+                    ],
+                    "teaching_tip": "Explicit left-to-right instruction"
+                }
+            },
+            "cultural_considerations": [
+                "Pakistani origin common",
+                "Islamic practices",
+                "Education valued"
+            ]
+        },
+        "fr": {
+            "name": "French",
+            "family": "Romance",
+            "writing_system": "Latin alphabet",
+            "phonology": {
+                "difficult_phonemes": [
+                    {
+                        "phoneme": "/θ/ /ð/",
+                        "issue": "Not in French",
+                        "priority": "high",
+                        "minimal_pairs": [
+                            "think/sink",
+                            "three/tree"
+                        ],
+                        "teaching_tip": "Tongue between teeth"
+                    },
+                    {
+                        "phoneme": "/h/",
+                        "issue": "French /h/ is silent; may omit or hypercorrect",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "hat/at",
+                            "hear/ear",
+                            "hair/air"
+                        ],
+                        "teaching_tip": "Breathy onset for /h/"
+                    },
+                    {
+                        "phoneme": "vowel_distinctions",
+                        "issue": "Different vowel inventory",
+                        "priority": "medium",
+                        "minimal_pairs": [
+                            "ship/sheep",
+                            "bit/beat"
+                        ],
+                        "teaching_tip": "Tense/lax vowel practice"
+                    }
+                ],
+                "consonant_clusters": {
+                    "issue": "French has clusters; generally manageable",
+                    "teaching_tip": "Focus on English-specific patterns"
+                }
+            },
+            "grammar": {
+                "adjective_position": {
+                    "priority": "medium",
+                    "issue": "French adjectives often follow nouns",
+                    "common_errors": [
+                        "'The house big' pattern"
+                    ],
+                    "teaching_approach": "Adjective ordering practice"
+                },
+                "articles": {
+                    "priority": "low",
+                    "issue": "French has articles but usage differs slightly",
+                    "common_errors": [
+                        "Article with abstract nouns: 'The love is beautiful'"
+                    ],
+                    "teaching_approach": "Compare usage rules"
+                },
+                "negation": {
+                    "priority": "low",
+                    "issue": "French uses ne...pas",
+                    "common_errors": [
+                        "Negation placement"
+                    ],
+                    "teaching_approach": "English negation rules"
+                }
+            },
+            "vocabulary": {
+                "cognates": [
+                    {
+                        "en": "apartment",
+                        "fr": "appartement"
+                    },
+                    {
+                        "en": "restaurant",
+                        "fr": "restaurant"
+                    },
+                    {
+                        "en": "government",
+                        "fr": "gouvernement"
+                    },
+                    {
+                        "en": "important",
+                        "fr": "important"
+                    },
+                    {
+                        "en": "attention",
+                        "fr": "attention"
+                    }
+                ],
+                "false_friends": [
+                    {
+                        "en": "actually",
+                        "fr": "actuellement",
+                        "means": "currently"
+                    },
+                    {
+                        "en": "library",
+                        "fr": "librairie",
+                        "means": "bookstore"
+                    },
+                    {
+                        "en": "sensible",
+                        "fr": "sensible",
+                        "means": "sensitive"
+                    }
+                ],
+                "cognate_strategy": "HIGH - leverage Romance cognates"
+            },
+            "literacy_transfer": {
+                "script_direction": "LTR",
+                "print_concepts": {
+                    "issues": [
+                        "Same alphabet - minimal issues"
+                    ],
+                    "teaching_tip": "Focus on phonics differences"
+                },
+                "phonemic_awareness": {
+                    "strength": true,
+                    "note": "Alphabetic literacy transfers well"
+                }
+            },
+            "cultural_considerations": [
+                "African Francophone students may have different cultural background",
+                "French-English bilingualism context in Canada",
+                "May have studied English in school"
+            ],
+            "educational_background_notes": "Often strong academic foundation; leverage cognate awareness"
+        }
+    },
+    "common_exercises": {
+        "article_decision_tree": {
+            "description": "Flowchart-based practice for article selection",
+            "questions": [
+                "Is it specific?",
+                "Is it countable?",
+                "First mention?",
+                "Unique?"
+            ]
+        },
+        "word_order_practice": {
+            "description": "Sentence unscrambling to practice SVO order",
+            "format": "Drag-and-drop sentence building"
+        },
+        "minimal_pairs_audio": {
+            "description": "Listen and identify which word you hear",
+            "format": "Audio discrimination with immediate feedback"
+        },
+        "tense_timeline": {
+            "description": "Visual timeline for placing verb tenses",
+            "format": "Interactive timeline with verb placement"
+        },
+        "preposition_collocations": {
+            "description": "Practice common preposition + noun combinations",
+            "format": "Fill-in-the-blank with visual support"
+        }
+    },
+    "intervention_priority_by_l1": {
+        "ar": [
+            "articles",
+            "phonemes_p_v",
+            "verb_be",
+            "consonant_clusters"
+        ],
+        "zh": [
+            "articles",
+            "verb_tense",
+            "plurals",
+            "final_consonants",
+            "phonemic_awareness"
+        ],
+        "es": [
+            "phonemes_b_v_th",
+            "false_friends",
+            "subject_pronouns"
+        ],
+        "ko": [
+            "phonemes_r_l",
+            "articles",
+            "word_order"
+        ],
+        "tl": [
+            "phonemes_f_p_th",
+            "verb_tense",
+            "gender_pronouns"
+        ],
+        "vi": [
+            "final_consonants",
+            "consonant_clusters",
+            "verb_tense",
+            "articles"
+        ],
+        "pa": [
+            "word_order",
+            "articles",
+            "th_sounds"
+        ],
+        "uk": [
+            "articles",
+            "th_sounds",
+            "alphabet_transition"
+        ],
+        "so": [
+            "phonemes_p_v",
+            "word_order",
+            "articles"
+        ],
+        "fa": [
+            "word_order",
+            "articles",
+            "th_sounds"
+        ]
+    }
+}

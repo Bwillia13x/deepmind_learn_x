@@ -1,0 +1,106 @@
+{
+    "name": "Chinese-English Classroom Glossary",
+    "language_code": "zh",
+    "entries": [
+        {
+            "en": "open",
+            "zh": "打开",
+            "definition": "to make accessible or remove a barrier"
+        },
+        {
+            "en": "close",
+            "zh": "关闭",
+            "definition": "to shut or make inaccessible"
+        },
+        {
+            "en": "read",
+            "zh": "读",
+            "definition": "to look at and understand written words"
+        },
+        {
+            "en": "write",
+            "zh": "写",
+            "definition": "to form letters or words on paper"
+        },
+        {
+            "en": "listen",
+            "zh": "听",
+            "definition": "to pay attention to sound"
+        },
+        {
+            "en": "book",
+            "zh": "书",
+            "definition": "a set of printed pages bound together"
+        },
+        {
+            "en": "pencil",
+            "zh": "铅笔",
+            "definition": "a writing instrument with graphite"
+        },
+        {
+            "en": "desk",
+            "zh": "桌子",
+            "definition": "a table for work or study"
+        },
+        {
+            "en": "teacher",
+            "zh": "老师",
+            "definition": "a person who instructs students"
+        },
+        {
+            "en": "student",
+            "zh": "学生",
+            "definition": "a person who is learning"
+        },
+        {
+            "en": "homework",
+            "zh": "作业",
+            "definition": "work assigned to be done outside of class"
+        },
+        {
+            "en": "question",
+            "zh": "问题",
+            "definition": "something asked to get information"
+        },
+        {
+            "en": "answer",
+            "zh": "答案",
+            "definition": "a reply to a question"
+        },
+        {
+            "en": "page",
+            "zh": "页",
+            "definition": "one side of a sheet of paper in a book"
+        },
+        {
+            "en": "chapter",
+            "zh": "章节",
+            "definition": "a main division of a book"
+        },
+        {
+            "en": "sentence",
+            "zh": "句子",
+            "definition": "a group of words that expresses a complete thought"
+        },
+        {
+            "en": "paragraph",
+            "zh": "段落",
+            "definition": "a group of sentences about one topic"
+        },
+        {
+            "en": "draw",
+            "zh": "画",
+            "definition": "to make a picture with pencil or pen"
+        },
+        {
+            "en": "circle",
+            "zh": "圆圈",
+            "definition": "a round shape"
+        },
+        {
+            "en": "underline",
+            "zh": "下划线",
+            "definition": "to draw a line under words"
+        }
+    ]
+}

@@ -1,0 +1,566 @@
+{
+    "name": "Cultural Responsiveness Content Library",
+    "description": "Content and recommendations for culturally responsive literacy instruction",
+    "version": "1.0.0",
+    "created": "2024-12",
+    "cultural_profiles": {
+        "ar": {
+            "name": "Arabic-speaking",
+            "common_countries": [
+                "Syria",
+                "Iraq",
+                "Egypt",
+                "Lebanon",
+                "Jordan",
+                "Sudan",
+                "Yemen",
+                "Morocco"
+            ],
+            "reading_direction": "right_to_left",
+            "script": "Arabic",
+            "cultural_values": [
+                "Family is central to identity",
+                "Respect for elders and authority",
+                "Hospitality is highly valued",
+                "Religious observance often important",
+                "Oral storytelling tradition"
+            ],
+            "educational_norms": {
+                "common_practices": [
+                    "Memorization valued",
+                    "Teacher-centered instruction",
+                    "Formal relationships"
+                ],
+                "adjustments_needed": [
+                    "May need to adjust to student-centered learning",
+                    "Group work may be unfamiliar"
+                ],
+                "strengths": [
+                    "Strong oral tradition",
+                    "Memory skills",
+                    "Respect for learning"
+                ]
+            },
+            "holidays_celebrations": [
+                {
+                    "name": "Eid al-Fitr",
+                    "timing": "End of Ramadan",
+                    "significance": "Celebration after month of fasting"
+                },
+                {
+                    "name": "Eid al-Adha",
+                    "timing": "Varies",
+                    "significance": "Feast of Sacrifice"
+                }
+            ],
+            "content_considerations": [
+                "Avoid images that may be considered inappropriate",
+                "Be aware of dietary restrictions (halal)",
+                "Consider prayer times during school day",
+                "Friday may hold special significance"
+            ],
+            "celebration_topics": [
+                "Family gatherings",
+                "Special foods",
+                "Generosity and charity"
+            ],
+            "recommended_themes": [
+                "Family and community stories",
+                "Hospitality and welcoming others",
+                "Perseverance and resilience",
+                "Nature and creation stories"
+            ]
+        },
+        "zh": {
+            "name": "Chinese-speaking",
+            "common_countries": [
+                "China",
+                "Taiwan",
+                "Hong Kong",
+                "Singapore"
+            ],
+            "reading_direction": "left_to_right_modern",
+            "script": "Chinese characters (Simplified/Traditional)",
+            "cultural_values": [
+                "Education highly valued",
+                "Family honor and collective success",
+                "Respect for teachers and elders",
+                "Harmony and avoiding conflict",
+                "Hard work and perseverance"
+            ],
+            "educational_norms": {
+                "common_practices": [
+                    "High academic expectations",
+                    "Rote learning for foundations",
+                    "Test-focused"
+                ],
+                "adjustments_needed": [
+                    "May be hesitant to speak up",
+                    "Critical thinking may be new approach"
+                ],
+                "strengths": [
+                    "Strong work ethic",
+                    "Respect for education",
+                    "Persistence"
+                ]
+            },
+            "holidays_celebrations": [
+                {
+                    "name": "Chinese New Year",
+                    "timing": "Jan/Feb",
+                    "significance": "Biggest celebration; family reunion"
+                },
+                {
+                    "name": "Mid-Autumn Festival",
+                    "timing": "September",
+                    "significance": "Moon Festival; mooncakes and family"
+                }
+            ],
+            "content_considerations": [
+                "Academic achievement stories resonate",
+                "Family and ancestor themes valued",
+                "Include Asian representation in materials",
+                "Be aware of sensitivities around Taiwan/China relations"
+            ],
+            "recommended_themes": [
+                "Academic achievement and education",
+                "Family traditions and ancestors",
+                "Chinese contributions to science and arts",
+                "Nature and seasonal celebrations"
+            ]
+        },
+        "es": {
+            "name": "Spanish-speaking",
+            "common_countries": [
+                "Mexico",
+                "Colombia",
+                "Venezuela",
+                "El Salvador",
+                "Guatemala",
+                "Honduras",
+                "Cuba",
+                "Spain"
+            ],
+            "reading_direction": "left_to_right",
+            "script": "Latin/Roman",
+            "cultural_values": [
+                "Family (familia) is core",
+                "Warmth and personal relationships",
+                "Community and collective identity",
+                "Religious traditions often important",
+                "Celebration and music"
+            ],
+            "educational_norms": {
+                "common_practices": [
+                    "Varies by country",
+                    "Memorization common",
+                    "Respect for teachers"
+                ],
+                "adjustments_needed": [
+                    "Schedule differences (later dinners)",
+                    "Physical affection norms differ"
+                ],
+                "strengths": [
+                    "Strong oral language skills",
+                    "Social learners",
+                    "Cognate advantage with English"
+                ]
+            },
+            "holidays_celebrations": [
+                {
+                    "name": "Día de los Muertos",
+                    "timing": "Nov 1-2",
+                    "significance": "Honoring deceased family members"
+                },
+                {
+                    "name": "Quinceañera",
+                    "timing": "Girl's 15th birthday",
+                    "significance": "Coming of age celebration"
+                },
+                {
+                    "name": "Navidad/Christmas",
+                    "timing": "December",
+                    "significance": "Extended celebration with family"
+                }
+            ],
+            "content_considerations": [
+                "Include Latino/Hispanic representation",
+                "Acknowledge diversity within Spanish-speaking world",
+                "Food and family gatherings are unifying themes",
+                "Soccer/fútbol is popular connection point"
+            ],
+            "recommended_themes": [
+                "Family celebrations and traditions",
+                "Latino/Hispanic contributions to society",
+                "Immigration and journey stories",
+                "Music, art, and celebration"
+            ]
+        },
+        "so": {
+            "name": "Somali-speaking",
+            "common_countries": [
+                "Somalia",
+                "Djibouti",
+                "Ethiopia (Somali region)",
+                "Kenya (Somali region)"
+            ],
+            "reading_direction": "left_to_right",
+            "script": "Latin (since 1972)",
+            "cultural_values": [
+                "Strong clan and family ties",
+                "Oral tradition and poetry",
+                "Hospitality and generosity",
+                "Islamic faith often central",
+                "Resilience and adaptability"
+            ],
+            "educational_norms": {
+                "common_practices": [
+                    "Oral learning traditions",
+                    "Quranic education common",
+                    "Gender separation sometimes"
+                ],
+                "adjustments_needed": [
+                    "Written literacy may be newer for some families",
+                    "Mixed-gender education adjustment"
+                ],
+                "strengths": [
+                    "Strong oral language and memory",
+                    "Resilience",
+                    "Community support"
+                ]
+            },
+            "holidays_celebrations": [
+                {
+                    "name": "Eid al-Fitr",
+                    "timing": "End of Ramadan",
+                    "significance": "Celebration after fasting"
+                },
+                {
+                    "name": "Somali Independence Day",
+                    "timing": "July 1",
+                    "significance": "National pride"
+                }
+            ],
+            "content_considerations": [
+                "Many students may have experienced trauma (refugee backgrounds)",
+                "Oral storytelling highly valued",
+                "Be aware of dietary restrictions (halal)",
+                "Poetry and oral arts are respected"
+            ],
+            "recommended_themes": [
+                "Oral storytelling and poetry",
+                "Community and helping others",
+                "Journey and resilience stories",
+                "Somali contributions and pride"
+            ]
+        },
+        "uk": {
+            "name": "Ukrainian-speaking",
+            "common_countries": [
+                "Ukraine"
+            ],
+            "reading_direction": "left_to_right",
+            "script": "Cyrillic",
+            "cultural_values": [
+                "Family and homeland",
+                "Education valued",
+                "Hospitality and generosity",
+                "Folk traditions and arts",
+                "Resilience and independence"
+            ],
+            "educational_norms": {
+                "common_practices": [
+                    "Strong formal education system",
+                    "STEM emphasis",
+                    "Teacher-centered"
+                ],
+                "adjustments_needed": [
+                    "Different grading systems",
+                    "More informal Canadian style"
+                ],
+                "strengths": [
+                    "Strong academic preparation",
+                    "Literacy skills",
+                    "Work ethic"
+                ]
+            },
+            "holidays_celebrations": [
+                {
+                    "name": "Ukrainian Christmas",
+                    "timing": "January 7",
+                    "significance": "Orthodox Christmas"
+                },
+                {
+                    "name": "Easter/Pysanka",
+                    "timing": "Spring",
+                    "significance": "Decorated eggs tradition"
+                }
+            ],
+            "content_considerations": [
+                "Many recent arrivals due to conflict (2022+)",
+                "Trauma-informed approach may be needed",
+                "Strong educational background often",
+                "Maintaining connection to homeland important"
+            ],
+            "recommended_themes": [
+                "Home and family stories",
+                "Ukrainian folk traditions",
+                "Nature and seasons",
+                "Courage and helping others"
+            ]
+        },
+        "pa": {
+            "name": "Punjabi-speaking",
+            "common_countries": [
+                "India (Punjab)",
+                "Pakistan (Punjab)"
+            ],
+            "reading_direction": "left_to_right",
+            "script": "Gurmukhi (India) or Shahmukhi (Pakistan)",
+            "cultural_values": [
+                "Strong family bonds",
+                "Respect for elders",
+                "Hard work and entrepreneurship",
+                "Music and celebration",
+                "Religious diversity (Sikh, Muslim, Hindu)"
+            ],
+            "educational_norms": {
+                "common_practices": [
+                    "High value on education",
+                    "Competitive academics",
+                    "Respect for teachers"
+                ],
+                "adjustments_needed": [
+                    "Different school calendar",
+                    "Teaching styles may differ"
+                ],
+                "strengths": [
+                    "Strong academic motivation",
+                    "Parental involvement",
+                    "Community support"
+                ]
+            },
+            "holidays_celebrations": [
+                {
+                    "name": "Vaisakhi",
+                    "timing": "April",
+                    "significance": "Sikh new year, harvest festival"
+                },
+                {
+                    "name": "Diwali",
+                    "timing": "Oct/Nov",
+                    "significance": "Festival of lights"
+                }
+            ],
+            "content_considerations": [
+                "Large Punjabi community in Alberta",
+                "Diverse religious backgrounds",
+                "Music and Bhangra dance popular",
+                "Agricultural connections (farming communities)"
+            ],
+            "recommended_themes": [
+                "Family and community celebrations",
+                "Harvest and farming stories",
+                "Sikh/Punjabi contributions to Canada",
+                "Festivals of light and color"
+            ]
+        },
+        "tl": {
+            "name": "Tagalog/Filipino-speaking",
+            "common_countries": [
+                "Philippines"
+            ],
+            "reading_direction": "left_to_right",
+            "script": "Latin/Roman",
+            "cultural_values": [
+                "Family (particularly extended family)",
+                "Respect (especially for elders)",
+                "Hospitality and generosity",
+                "Strong religious faith (often Catholic)",
+                "Resilience and optimism"
+            ],
+            "educational_norms": {
+                "common_practices": [
+                    "English used in education",
+                    "Formal schooling valued",
+                    "Respect for teachers"
+                ],
+                "adjustments_needed": [
+                    "Different grading systems",
+                    "Weather and seasons very different"
+                ],
+                "strengths": [
+                    "English proficiency often higher",
+                    "Educational value",
+                    "Adaptability"
+                ]
+            },
+            "holidays_celebrations": [
+                {
+                    "name": "Christmas",
+                    "timing": "Dec (starts Sept!)",
+                    "significance": "World's longest Christmas celebration"
+                },
+                {
+                    "name": "Fiesta",
+                    "timing": "Varies",
+                    "significance": "Town patron saint celebrations"
+                }
+            ],
+            "content_considerations": [
+                "Many families have multiple generations in Canada",
+                "English is often a strength",
+                "Religious content often welcome",
+                "Family separation due to work (OFW) may be sensitive"
+            ],
+            "recommended_themes": [
+                "Family across generations and distance",
+                "Filipino contributions to Canada",
+                "Food and celebration",
+                "Resilience and helping others"
+            ]
+        },
+        "vi": {
+            "name": "Vietnamese-speaking",
+            "common_countries": [
+                "Vietnam"
+            ],
+            "reading_direction": "left_to_right",
+            "script": "Latin with diacritics",
+            "cultural_values": [
+                "Family and ancestor respect",
+                "Education highly valued",
+                "Hard work and achievement",
+                "Harmony and saving face",
+                "Resilience"
+            ],
+            "educational_norms": {
+                "common_practices": [
+                    "Strong academic focus",
+                    "Teacher respect",
+                    "Memorization"
+                ],
+                "adjustments_needed": [
+                    "More participatory learning",
+                    "Different assessment styles"
+                ],
+                "strengths": [
+                    "Strong work ethic",
+                    "Family support for education",
+                    "Persistence"
+                ]
+            },
+            "holidays_celebrations": [
+                {
+                    "name": "Tết (Lunar New Year)",
+                    "timing": "Jan/Feb",
+                    "significance": "Biggest celebration; family reunion"
+                },
+                {
+                    "name": "Mid-Autumn Festival",
+                    "timing": "September",
+                    "significance": "Children's festival; mooncakes"
+                }
+            ],
+            "content_considerations": [
+                "Established Vietnamese community in Alberta",
+                "Some families have refugee history",
+                "Food is important cultural connector",
+                "Tonal language speakers may need extra pronunciation support"
+            ],
+            "recommended_themes": [
+                "Family and ancestor traditions",
+                "New Year and seasonal celebrations",
+                "Vietnamese contributions to Canada",
+                "Food and sharing stories"
+            ]
+        }
+    },
+    "content_recommendations": {
+        "universal_themes": [
+            "Family and belonging",
+            "Friendship and kindness",
+            "Overcoming challenges",
+            "Helping others",
+            "Learning and growth",
+            "Nature and seasons",
+            "Celebrations and traditions",
+            "Home and community"
+        ],
+        "avoid_or_handle_carefully": [
+            "Content that assumes nuclear family only",
+            "Holiday content that assumes Christian traditions",
+            "Food content that ignores dietary restrictions",
+            "Stories that portray single cultural perspective",
+            "Images that lack diversity",
+            "Assumptions about students' home countries"
+        ],
+        "trauma_informed_considerations": [
+            "Be aware many students have experienced displacement",
+            "Avoid content requiring students to share trauma",
+            "Create safe, predictable routines",
+            "Watch for trauma responses and respond appropriately",
+            "Family separation themes may be sensitive",
+            "War and conflict references need careful handling"
+        ]
+    },
+    "alberta_multicultural_context": {
+        "description": "Alberta has significant immigrant and refugee populations requiring culturally responsive approaches",
+        "key_communities": [
+            {
+                "community": "South Asian",
+                "areas": "Calgary, Edmonton suburbs",
+                "languages": [
+                    "pa",
+                    "hi",
+                    "ur",
+                    "gu"
+                ]
+            },
+            {
+                "community": "Filipino",
+                "areas": "Throughout Alberta",
+                "languages": [
+                    "tl"
+                ]
+            },
+            {
+                "community": "Chinese",
+                "areas": "Calgary, Edmonton",
+                "languages": [
+                    "zh",
+                    "yue"
+                ]
+            },
+            {
+                "community": "Arabic-speaking",
+                "areas": "Calgary, Edmonton",
+                "languages": [
+                    "ar"
+                ]
+            },
+            {
+                "community": "African",
+                "areas": "Calgary, Edmonton",
+                "languages": [
+                    "so",
+                    "am",
+                    "ti"
+                ]
+            },
+            {
+                "community": "Ukrainian",
+                "areas": "Throughout (established + new arrivals)",
+                "languages": [
+                    "uk"
+                ]
+            }
+        ],
+        "considerations": [
+            "Many students may be from refugee backgrounds",
+            "Second-generation immigrants may have different needs",
+            "Rural vs. urban settlement patterns vary",
+            "Community cultural organizations can be resources"
+        ]
+    }
+}

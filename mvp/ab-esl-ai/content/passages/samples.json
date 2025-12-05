@@ -1,0 +1,83 @@
+{
+    "passages": [
+        {
+            "id": "sample_gr2_weather",
+            "title": "The Weather Today",
+            "level": "Grade 2",
+            "cefr": "A1",
+            "word_count": 45,
+            "text": "Today is sunny. The sky is blue. I see white clouds. The sun is bright and warm. I like sunny days. I can play outside. I can ride my bike. My friends come to the park. We have fun together.",
+            "questions": [
+                "What color is the sky?",
+                "What does the child like to do on sunny days?",
+                "Where do the friends play?"
+            ]
+        },
+        {
+            "id": "sample_gr4_seasons",
+            "title": "The Four Seasons",
+            "level": "Grade 4",
+            "cefr": "A2",
+            "word_count": 92,
+            "text": "Canada has four distinct seasons: spring, summer, fall, and winter. In spring, flowers bloom and trees grow new leaves. The weather becomes warmer. Summer brings hot days and long evenings. Many families enjoy camping and swimming. Fall arrives with cooler temperatures and colorful leaves. Farmers harvest their crops. Winter is the coldest season. Snow covers the ground, and people enjoy skating and skiing. Each season offers different activities and beautiful sights.",
+            "questions": [
+                "Which season comes after spring?",
+                "What happens to trees in spring?",
+                "Name two activities people do in winter.",
+                "What do farmers do in fall?"
+            ]
+        },
+        {
+            "id": "sample_gr6_photosynthesis",
+            "title": "How Plants Make Food",
+            "level": "Grade 6",
+            "cefr": "B1",
+            "word_count": 135,
+            "text": "Photosynthesis is the process that plants use to make their own food. Plants need three main ingredients: sunlight, water, and carbon dioxide from the air. Inside plant leaves are special cells containing chlorophyll, which gives leaves their green color. Chlorophyll captures energy from sunlight. This energy is used to combine water from the roots with carbon dioxide from the air. Through this chemical reaction, plants produce glucose, a type of sugar that provides energy. As a byproduct, plants release oxygen into the atmosphere. This oxygen is essential for most living things to breathe. Photosynthesis is crucial for life on Earth because it provides food for plants and oxygen for animals. Without this process, most life forms could not survive.",
+            "questions": [
+                "What are the three main ingredients plants need for photosynthesis?",
+                "What gives leaves their green color?",
+                "What gas do plants release during photosynthesis?",
+                "Why is photosynthesis important for animals?",
+                "What type of sugar do plants produce?"
+            ]
+        },
+        {
+            "id": "decodable_sat",
+            "title": "Sat",
+            "level": "Decodable - Beginning",
+            "phonics": [
+                "s",
+                "a",
+                "t",
+                "m"
+            ],
+            "word_count": 18,
+            "text": "Sam sat. Mat sat. Sam and Mat sat. Sam sat at mat. Mat sat at Sam. Sam and Mat sat at mat.",
+            "questions": [
+                "Who sat?",
+                "Where did Sam sit?"
+            ]
+        },
+        {
+            "id": "decodable_cat",
+            "title": "The Cat",
+            "level": "Decodable - Early",
+            "phonics": [
+                "c",
+                "a",
+                "t",
+                "m",
+                "s",
+                "p"
+            ],
+            "word_count": 32,
+            "text": "The cat sat. The cat sat on a mat. Pat the cat. The cat is fat. The cat can nap. The cat can tap. Tap, tap, tap. The cat sat and sat.",
+            "questions": [
+                "Where did the cat sit?",
+                "What is the cat's name?",
+                "What can the cat do?"
+            ]
+        }
+    ]
+}
